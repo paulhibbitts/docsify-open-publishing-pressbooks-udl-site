@@ -7,6 +7,4 @@ redirect: /universal-design-for-2026/section-5/41-what-is-edi
 [← Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition](universal-design-for-2026/README.md)
 
 # Module 4: Equity, Diversity, and Inclusion (EDI)
-
-<small>Module 5</small>
 <!-- /grav:gen -->

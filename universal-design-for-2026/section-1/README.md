@@ -9,6 +9,4 @@ redirect: /universal-design-for-2026/section-1/about-this-guide
 [← Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition](universal-design-for-2026/README.md)
 
 # Front Matter
-
-<small>Module 1</small>
 <!-- /grav:gen -->

@@ -7,6 +7,4 @@ redirect: /universal-design-for-2026/section-4/31-principles-of-accessible-legis
 [← Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition](universal-design-for-2026/README.md)
 
 # Module 3: Legislative Requirements Under the AODA and OHRC
-
-<small>Module 4</small>
 <!-- /grav:gen -->

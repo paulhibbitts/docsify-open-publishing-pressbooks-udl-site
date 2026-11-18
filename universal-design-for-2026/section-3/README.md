@@ -7,6 +7,4 @@ redirect: /universal-design-for-2026/section-3/21-applying-udl-in-the-design-pha
 [← Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition](universal-design-for-2026/README.md)
 
 # Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments
-
-<small>Module 3</small>
 <!-- /grav:gen -->
