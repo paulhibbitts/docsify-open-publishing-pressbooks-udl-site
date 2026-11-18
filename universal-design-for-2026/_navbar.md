@@ -1,1 +1,0 @@
-- [All Guides](home.md)
