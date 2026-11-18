@@ -25,7 +25,7 @@ Darla Benton Kearney
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ ":class=navpill")
 
-[Start Reading](universal-design-for-2026/section-1/README.md ":class=button :class=primary")
+[Start Reading](universal-design-for-2026/section-1/about-this-guide.md ":class=button :class=primary")
 
 </div>
 
@@ -47,65 +47,21 @@ Darla Benton Kearney
 The Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) project was a collaboration between 10 universities and colleges across Ontario to develop a 6-module open educational resource for post-secondary educators.  This 2nd edition open courseware provides educators with an introduction to the UDL 3.0 framework and its application in support of AODA, EDI, and Indigenous pedagogies.
 
 <!-- grav:gen -->
-<div class="card-list-sections">
+- **[Front Matter](universal-design-for-2026/section-1/about-this-guide.md)**  
+  Accessibility, about, preface, and acknowledgements.
 
-<div class="card">
+- **[Module 1: Introduction and Overview of UDL](universal-design-for-2026/section-2/11-origins-of-udl.md)**
 
-<h2><a href="#/universal-design-for-2026/section-1/README">Front Matter</a></h2>
+- **[Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments](universal-design-for-2026/section-3/21-applying-udl-in-the-design-phase.md)**
 
-Accessibility, about, preface, and acknowledgements.
+- **[Module 3: Legislative Requirements Under the AODA and OHRC](universal-design-for-2026/section-4/31-principles-of-accessible-legislation.md)**
 
-</div>
+- **[Module 4: Equity, Diversity, and Inclusion (EDI)](universal-design-for-2026/section-5/41-what-is-edi.md)**
 
-<div class="card">
+- **[Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario](universal-design-for-2026/section-6/51-the-importance-of-place-and-space.md)**
 
-<h2><a href="#/universal-design-for-2026/section-2/README">Module 1: Introduction and Overview of UDL</a></h2>
+- **[Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments](universal-design-for-2026/section-7/61-review-of-universal-design-for-learning.md)**
 
-<p></p>
-
-</div>
-
-<div class="card">
-
-<h2><a href="#/universal-design-for-2026/section-3/README">Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments</a></h2>
-
-<p></p>
-
-</div>
-
-<div class="card">
-
-<h2><a href="#/universal-design-for-2026/section-4/README">Module 3: Legislative Requirements Under the AODA and OHRC</a></h2>
-
-<p></p>
-
-</div>
-
-<div class="card">
-
-<h2><a href="#/universal-design-for-2026/section-5/README">Module 4: Equity, Diversity, and Inclusion (EDI)</a></h2>
-
-<p></p>
-
-</div>
-
-<div class="card">
-
-<h2><a href="#/universal-design-for-2026/section-6/README">Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario</a></h2>
-
-<p></p>
-
-</div>
-
-<div class="card">
-
-<h2><a href="#/universal-design-for-2026/section-7/README">Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments</a></h2>
-
-<p></p>
-
-</div>
-
-</div>
 <!-- /grav:gen -->
 
 <!-- grav:gen -->
