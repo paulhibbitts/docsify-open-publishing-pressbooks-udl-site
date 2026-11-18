@@ -2,7 +2,7 @@
 
 > The Pressbooks book [Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition](https://ecampusontario.pressbooks.pub/universaldesign2/), brought into Grav Open Publishing Space by the [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org), then converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
 
-View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&name=Universal%20Design%20for%20Learning%20%28UDL%29
+View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-udl-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Universal%20Design%20for%20Learning%20%28UDL%29
 
 These pages are the bridge's output as it is, shown like the book in Open Publishing Space: the home page is the book's home page, starting with its cover, title, author and licence, then a card for each module. The sidebar starts with the book's name (a link back to its home page) and lists its modules and pages, and Previous/Next buttons follow the pages in order.
 
