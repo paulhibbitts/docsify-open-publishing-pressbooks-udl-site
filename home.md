@@ -24,7 +24,6 @@ Darla Benton Kearney
 >
 > [View original on Pressbooks](https://ecampusontario.pressbooks.pub/universaldesign2/)
 >
-> *[Grav Open Publishing Space](https://www.hibbittsdesign.org/grav-open-publishing-space.html) supports embedded video, audio, and H5P activities. Video, audio, and H5P content in this converted book may appear as links rather than embedded content.*
 >
 
 The Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) project was a collaboration between 10 universities and colleges across Ontario to develop a 6-module open educational resource for post-secondary educators.  This 2nd edition open courseware provides educators with an introduction to the UDL 3.0 framework and its application in support of AODA, EDI, and Indigenous pedagogies.
