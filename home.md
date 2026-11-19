@@ -51,7 +51,7 @@ The Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Ac
 
 <div class="card">
 
-<h2><a href="#/section-1/about-this-guide">Front Matter</a></h2>
+## [Front Matter](section-1/about-this-guide.md) <!-- {docsify-ignore} -->
 
 Accessibility, about, preface, and acknowledgements.
 
@@ -59,37 +59,37 @@ Accessibility, about, preface, and acknowledgements.
 
 <div class="card">
 
-<h2><a href="#/section-2/11-origins-of-udl">Module 1: Introduction and Overview of UDL</a></h2>
+## [Module 1: Introduction and Overview of UDL](section-2/11-origins-of-udl.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-3/21-applying-udl-in-the-design-phase">Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments</a></h2>
+## [Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments](section-3/21-applying-udl-in-the-design-phase.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-4/31-principles-of-accessible-legislation">Module 3: Legislative Requirements Under the AODA and OHRC</a></h2>
+## [Module 3: Legislative Requirements Under the AODA and OHRC](section-4/31-principles-of-accessible-legislation.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-5/41-what-is-edi">Module 4: Equity, Diversity, and Inclusion (EDI)</a></h2>
+## [Module 4: Equity, Diversity, and Inclusion (EDI)](section-5/41-what-is-edi.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-6/51-the-importance-of-place-and-space">Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario</a></h2>
+## [Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario](section-6/51-the-importance-of-place-and-space.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-7/61-review-of-universal-design-for-learning">Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments</a></h2>
+## [Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments](section-7/61-review-of-universal-design-for-learning.md) <!-- {docsify-ignore} -->
 
 </div>
 
