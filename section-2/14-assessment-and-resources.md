@@ -14,7 +14,7 @@
 > [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=45#h5p-2)
 >
 
-## **Further Learning**
+## Further Learning
 
 The following are some resources to deepen your learning about UDL and its implementation:
 

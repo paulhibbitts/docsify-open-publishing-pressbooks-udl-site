@@ -59,7 +59,7 @@ As post-secondary educators in Ontario, we need to not only choose inclusion, eq
 
  ---
 
-## **References**
+## References
 
 Katz, J. (2012). Teaching to diversity: The three-block module of universal design for learning. Portage & Main Press
 

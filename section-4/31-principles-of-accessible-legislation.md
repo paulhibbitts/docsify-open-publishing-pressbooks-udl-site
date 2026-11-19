@@ -37,6 +37,6 @@ These laws arise out of the Universal Declaration of Human Rights, a milestone d
 
  ---
 
-## **References**
+## References
 
 Human Rights Legal Support Centre. (2021). The Ontario Human Rights System. Government of Ontario. https://www.hrlsc.on.ca/en/how-guides-and-faqs/human-rights-ontario
