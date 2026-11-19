@@ -14,4 +14,4 @@ The original book is by Darla Benton Kearney, licensed under [CC BY 4.0](https:/
 
 Only the book is converted – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.
 
-Each page also keeps its Grav settings in a hidden note at the top, so the bridge can turn these pages back into the same Open Publishing Space book.
+The pages are clean Markdown, without the bridge's hidden notes. The bridge can still turn them into an Open Publishing Space book, like any Docsify site, but not exactly.

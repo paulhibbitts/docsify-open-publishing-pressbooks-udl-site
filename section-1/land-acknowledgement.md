@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/02.land-acknowledgement/section-page.md"}
-title: "Land Acknowledgement "
--->
-
-<!-- grav:gen -->
 # Land Acknowledgement 
-<!-- /grav:gen -->
 
 The UDL for IDEA VLS Team acknowledges that its work, and the work of its collaborating Colleges and Universities, takes place on traditional Indigenous territories across the province. We acknowledge that there are [46 treaties and other agreements ↗](https://www.ontario.ca/page/map-ontario-treaties-and-reserves) that cover the territory on Turtle Island now called Ontario. We are thankful to be able to work, live, learn, and teach in these territories and recognize current and historical Indigenous presence and land rights.
 

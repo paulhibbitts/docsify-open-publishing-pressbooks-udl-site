@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/01.21-applying-udl-in-the-design-phase/section-page.md"}
-title: "2.1: Applying UDL in the Design Phase"
--->
-
-<!-- grav:gen -->
 # 2.1: Applying UDL in the Design Phase
-<!-- /grav:gen -->
 
 ![Design phase from UDL flow diagram.”](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Design-300x111.png)
 
@@ -40,7 +34,6 @@ In *UDL at Mohawk College* \[2:43\], Tara Dinyer, Professor in the Health, Welln
 
 [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51)
 
-<!-- grav: [exercise title="Activity 2: Test Your Knowledge"] -->
 > [!TIP]
 > **Activity 2: Test Your Knowledge**
 >

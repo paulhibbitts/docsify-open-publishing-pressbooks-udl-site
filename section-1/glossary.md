@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/05.glossary/section-page.md"}
-title: "Glossary"
--->
-
-<!-- grav:gen -->
 # Glossary
-<!-- /grav:gen -->
 
 Throughout the modules, you will see common terms, abbreviations, and acronyms. The glossary below defines how these terms are used in this context.
 

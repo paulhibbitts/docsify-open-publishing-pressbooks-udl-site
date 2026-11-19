@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/02.62-udl-for-aoda/section-page.md"}
-title: "6.2: UDL for AODA"
--->
-
-<!-- grav:gen -->
 # 6.2: UDL for AODA
-<!-- /grav:gen -->
 
 Educators can often feel overwhelmed trying to ensure that their course content and activities are AODA compliant. Institutions place a great deal of focus on the need for accessible learning environments, but may not offer the support required to equip educators to create those spaces. In addition, because AODA is provincial legislation, educators can feel that there will be punitive consequences if they are unable to execute applicable elements of AODA perfectly.
 
@@ -50,7 +44,6 @@ The following video, *UDL at Landmark College* \[1:07\] by UDL on Campus (2015),
 
 > **UDL at Landmark College:** [UDL at Landmark College](https://ecampusontario.pressbooks.pub/universaldesign2/?p=139#oembed-1)
 
-<!-- grav: [exercise title="Activity 2: Case Study and Brainstorming"] -->
 > [!TIP]
 > **Activity 2: Case Study and Brainstorming**
 >

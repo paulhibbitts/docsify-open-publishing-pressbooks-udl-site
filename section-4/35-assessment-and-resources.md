@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/04.section-4/05.35-assessment-and-resources/section-page.md"}
-title: "3.5: Assessment and Resources "
--->
-
-<!-- grav:gen -->
 # 3.5: Assessment and Resources 
-<!-- /grav:gen -->
 
 ## **Module Activity: Responding to Accommodation Requests**
 

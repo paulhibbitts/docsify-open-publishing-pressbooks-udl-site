@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/03.accessibility-statement/section-page.md"}
-title: "Accessibility Statement"
--->
-
-<!-- grav:gen -->
 # Accessibility Statement
-<!-- /grav:gen -->
 
 We developed the *UDL for IDEA Guide* with a commitment to accessibility and usability for all learners.
 

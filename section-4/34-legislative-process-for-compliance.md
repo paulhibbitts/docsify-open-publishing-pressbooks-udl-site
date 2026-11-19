@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/04.section-4/03.34-legislative-process-for-compliance/section-page.md"}
-title: "3.4: Legislative Process for Compliance"
--->
-
-<!-- grav:gen -->
 # 3.4: Legislative Process for Compliance
-<!-- /grav:gen -->
 
 Each legislation establishes a process to ensure institutions are meeting all the legal requirements set out. And in some cases, a process for the public to file complaints in situations where they feel discriminated against. As an instructor delivering service on behalf of the institution, it is your responsibility to ensure that you follow these processes and ensure your actions are continuously compliant with the law.
 
@@ -37,7 +31,6 @@ When an individual believes they have experienced discrimination or harassment, 
 
 The HRTO will also review whether the institution met its duty to accommodate. This duty includes a procedural component, and substantive component. The process to assess an accommodation (procedural component) is just as important as the final solution (substantive component). This means there needs to be meaningful interaction between the parties focusing on the student’s needs and consideration of whether the education provider can accommodate those needs (OHRC, 2018).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -62,7 +55,6 @@ When you receive an accommodation request, it is important that you document you
 
 Documentation is also helpful in validating the credibility of your case in a Tribunal, should a human rights claim be made to the Human Rights Tribunal of Ontario (HRTO). HRTO cases can take a long time to be heard, and the process itself can take several years. Documentation of events and outcomes will help if you need to testify years later regarding a situation.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -73,7 +65,6 @@ Documentation is also helpful in validating the credibility of your case in a Tr
 > **Note:** The allegations of said events occurred during the student’s time at the University in 2004, but the hearing was not held until 2011.
 >
 
-<!-- grav: [exercise title="Activity 4: Review Your Lesson Plan"] -->
 > [!TIP]
 > **Activity 4: Review Your Lesson Plan**
 >

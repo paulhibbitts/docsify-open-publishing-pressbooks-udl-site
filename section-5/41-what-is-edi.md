@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/05.section-5/01.41-what-is-edi/section-page.md"}
-title: "4.1: What is EDI?"
--->
-
-<!-- grav:gen -->
 # 4.1: What is EDI?
-<!-- /grav:gen -->
 
 EDI is an acronym that includes the three interrelated concepts of equity, diversity, and inclusion. When you think of these three words, what comes to mind for you? What do you notice? Do you notice differences, similarities, or relationships between these three words? Let’s first look at some formal definitions with examples and guiding questions for each of these terms.
 
@@ -94,7 +88,6 @@ Putting this all together, in the post-secondary setting, EDI means being intent
 
 When considering EDI in courses/modules/lessons that you have already created, use the key guiding questions to review your design and your material then make adjustments where necessary.
 
-<!-- grav: [exercise title="Activity 1: Reflect on EDI in Your Organization"] -->
 > [!TIP]
 > **Activity 1: Reflect on EDI in Your Organization**
 >

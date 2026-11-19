@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/04.64-udl-for-indigenous-pedagogies/section-page.md"}
-title: "6.4: UDL for Indigenous Pedagogies"
--->
-
-<!-- grav:gen -->
 # 6.4: UDL for Indigenous Pedagogies
-<!-- /grav:gen -->
 
 Indigenous Pedagogies have been used on Turtle Island (North America) to teach and transfer knowledge since time immemorial. A quick summary of the First Peoples Principles of Learning, offered by the First Nations Education Steering Committee in BC, touches on many of the topics identified in the Indigenous pedagogies module.
 
@@ -44,14 +38,12 @@ Other common Indigenous education related challenges related to resources that t
 
 Colonialism and the Indian Act have created systemic barriers that continually ignore Indigenous knowledge and voices. To combat systemic barriers, professors can implement UDL Guidelines to provide options to learners to reduce barriers and support a more holistic learning environment. For example, assessment submission options that allow for storytelling, deliberate opportunities for reflection throughout content, consistent space to engage previous personal and generational knowledge. Educators can also hold their institutions accountable by actively engaging the [Truth and Reconciliation Commission of Canada: Calls to Action ↗](https://ehprnh2mwo3.exactdn.com/wp-content/uploads/2021/01/Calls_to_Action_English2.pdf) and becoming an ally of Indigenous peoples and Indigenous knowledge.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
 > **A Word of Advice:** The professor should never ask an Indigenous student to do this work. It is not the student’s responsibility to educate the professor!
 >
 
-<!-- grav: [exercise title="Activity4: Brainstorming"] -->
 > [!TIP]
 > **Activity4: Brainstorming**
 >

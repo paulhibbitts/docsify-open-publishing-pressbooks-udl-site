@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/02.section-2/01.11-origins-of-udl/section-page.md"}
-title: "1.1: Origins of UDL"
--->
-
-<!-- grav:gen -->
 # 1.1: Origins of UDL
-<!-- /grav:gen -->
 
 ## **Concept of Universal Design**
 
@@ -45,7 +39,6 @@ The TEDx (2013) video, *The Myth of the Average: Todd Rose at TEDx Sonoma County
 
 Once we accept that there is no average, we can start to find teaching and learning strategies to support all of our students. The UDL guidelines provide the strategies we need and offer a path for curriculum design, development and delivery that embeds equity, diversity, access and inclusion.
 
-<!-- grav: [exercise title="Activity 1: Define UDL"] -->
 > [!TIP]
 > **Activity 1: Define UDL**
 >

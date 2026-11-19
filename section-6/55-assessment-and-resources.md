@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.universal-design-for-2026/06.section-6/05.55-assessment-and-resources/section-page.md"}
-title: "5.5: Assessment and Resources"
--->
-
-<!-- grav:gen -->
 # 5.5: Assessment and Resources
-<!-- /grav:gen -->
 
-<!-- grav: [exercise title="Module Activity: Summarize, Define and Emphasize"] -->
 > [!TIP]
 > **Module Activity: Summarize, Define and Emphasize**
 >

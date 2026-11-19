@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.universal-design-for-2026/02.section-2/04.14-assessment-and-resources/section-page.md"}
-title: "1.4: Assessment and Resources"
--->
-
-<!-- grav:gen -->
 # 1.4: Assessment and Resources
-<!-- /grav:gen -->
 
-<!-- grav: [exercise title="Module Activity: Refine Your Definition"] -->
 > [!TIP]
 > **Module Activity: Refine Your Definition**
 >

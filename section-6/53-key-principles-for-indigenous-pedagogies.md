@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/06.section-6/03.53-key-principles-for-indigenous-pedagogies/section-page.md"}
-title: "5.3: Key Principles for Indigenous Pedagogies"
--->
-
-<!-- grav:gen -->
 # 5.3: Key Principles for Indigenous Pedagogies
-<!-- /grav:gen -->
 
 ## **First Peoples Principles of Learning**
 
@@ -30,7 +24,6 @@ According to Antoine et al. (2018), “the principle of holism is linked to that
 
 Watch the video [*The Importance of Personal and Holistic Learning* ](https://uwin365-my.sharepoint.com/:v:/g/personal/kechego1_uwindsor_ca/IQC7SF-c1EU-Qb_Y77TjGUfoAfluruXwsgifELYtVx61aiY?e=P5H14K)\[7:09\] where Jaimie shares her story in this respect.
 
-<!-- grav: [exercise title="Activity 3: Self Reflection "] -->
 > [!TIP]
 > **Activity 3: Self Reflection **
 >

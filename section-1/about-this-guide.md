@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/01.about-this-guide/section-page.md"}
-title: "About This Guide"
--->
-
-<!-- grav:gen -->
 # About This Guide
-<!-- /grav:gen -->
 
 ## **Navigating This Guide**
 

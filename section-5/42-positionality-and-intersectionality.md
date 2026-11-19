@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/05.section-5/02.42-positionality-and-intersectionality/section-page.md"}
-title: "4.2: Positionality and Intersectionality"
--->
-
-<!-- grav:gen -->
 # 4.2: Positionality and Intersectionality
-<!-- /grav:gen -->
 
 Now that you have spent some time reflecting on equity, diversity, and inclusion, let’s dive a bit deeper into how our social identities, positionality, and privilege(s) intersect.
 
@@ -55,7 +49,6 @@ Sylvia Duckworth’s “wheel of power/privilege” is another visual representa
 <figcaption>(Duckworth, 2020) <a href="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx" data-url="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx">Image Description (Doc)</a></figcaption>
 </figure>
 
-<!-- grav: [exercise title="Activity 2: Define Yourself"] -->
 > [!TIP]
 > **Activity 2: Define Yourself**
 >

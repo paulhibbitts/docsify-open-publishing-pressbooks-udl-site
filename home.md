@@ -1,18 +1,3 @@
-<!-- grav: {"file":"01.universal-design-for-2026/section-list.md","images":["UDLforIDEAcover-1-768x1024.png"]}
-title: "Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition"
-menu: "Universal Design for Learning (UDL)"
-cover_image: UDLforIDEAcover-1-768x1024.png
-cover_image_layout: small
-authors: "Darla Benton Kearney"
-show_oer_attribution: true
-license: "CC BY 4.0"
-license_url: "https://creativecommons.org/licenses/by/4.0/"
-section_label: Module
-show_section_label: false
-attribution_text: "Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition by Darla Benton Kearney © 2026 (2nd ed) is licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>."
--->
-
-<!-- grav:gen -->
 <div class="guide-cover guide-cover-portrait">
 
 ![Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition cover](UDLforIDEAcover-1-768x1024.png ":no-zoom")
@@ -30,9 +15,7 @@ Darla Benton Kearney
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav: [announcement title="Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition — Imported from Pressbooks"] -->
 > [!IMPORTANT]
 > **Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition — Imported from Pressbooks**
 >
@@ -46,7 +29,6 @@ Darla Benton Kearney
 
 The Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) project was a collaboration between 10 universities and colleges across Ontario to develop a 6-module open educational resource for post-secondary educators.  This 2nd edition open courseware provides educators with an introduction to the UDL 3.0 framework and its application in support of AODA, EDI, and Indigenous pedagogies.
 
-<!-- grav:gen -->
 <div class="card-list-rows">
 
 <div class="card">
@@ -94,11 +76,8 @@ Accessibility, about, preface, and acknowledgements.
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav:gen -->
 Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition by Darla Benton Kearney © 2026 (2nd ed) is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
-<!-- /grav:gen -->

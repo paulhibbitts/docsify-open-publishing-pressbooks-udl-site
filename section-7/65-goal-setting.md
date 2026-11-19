@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/05.65-goal-setting/section-page.md"}
-title: "6.5: Goal Setting"
--->
-
-<!-- grav:gen -->
 # 6.5: Goal Setting
-<!-- /grav:gen -->
 
 Goal setting is an essential step in the UDL implementation process. While “goals help us focus our energy and actions, measure our progress and…achieve purposeful results” (Ministry of Education, 2013, p. 1), it is not always easy for post-secondary educators to determine institutional IDEA priorities or uncover entrenched systemic challenges that can inform goals.
 
@@ -25,7 +19,6 @@ Furthermore, institutional EDI, accessibility or Indigenization goals may not fu
 
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -36,7 +29,6 @@ Furthermore, institutional EDI, accessibility or Indigenization goals may not fu
 
 As post-secondary educators in Ontario, we need to not only choose inclusion, equity and access for our diverse student populations, but plan for it. Comprehensive goal setting is an ideal way to start your UDL implementation to support removing barriers for yourself and learners. The following learning activity will start you on your goal setting path.
 
-<!-- grav: [exercise title="Activity 5: Goal Setting"] -->
 > [!TIP]
 > **Activity 5: Goal Setting**
 >

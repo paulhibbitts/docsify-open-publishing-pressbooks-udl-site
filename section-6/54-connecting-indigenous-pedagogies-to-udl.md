@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/06.section-6/04.54-connecting-indigenous-pedagogies-to-udl/section-page.md"}
-title: "5.4: Connecting Indigenous Pedagogies to UDL"
--->
-
-<!-- grav:gen -->
 # 5.4: Connecting Indigenous Pedagogies to UDL
-<!-- /grav:gen -->
 
 The UDL Guidelines directly relate to, and are supportive of, implementing Indigenous Pedagogies in post-secondary education in Ontario. Please review the UDL Guidelines below. Should you wish to learn more about UDL, please access the content in Module 1 and 2 of the UDL for IDEA project.
 
@@ -56,7 +50,6 @@ There is a strong connection between Indigenous Pedagogies and UDL. Below you wi
 - Provide options for personalized expression and communication by creating opportunities for learners to communicate their knowledge in a variety of formats where appropriate and relevant. Include space in your content, learning activities, and assessment activities for storytelling.
 - Develop executive functioning by using the Medicine Wheel process to encourage reflection and self-monitoring of a learner’s whole being, encouraging them to observe their own learning progress and growth.
 
-<!-- grav: [exercise title="Activity 4: Application"] -->
 > [!TIP]
 > **Activity 4: Application**
 >

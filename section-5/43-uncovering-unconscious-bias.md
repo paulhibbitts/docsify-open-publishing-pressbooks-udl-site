@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/05.section-5/03.43-uncovering-unconscious-bias/section-page.md"}
-title: "4.3: Uncovering Unconscious Bias"
--->
-
-<!-- grav:gen -->
 # 4.3: Uncovering Unconscious Bias
-<!-- /grav:gen -->
 
 An unconscious bias (also known as implicit bias) is an implicit attitude, stereotype, motivation, or assumption that can occur without one’s knowledge, control or intention. Unconscious bias is a result of our life experiences and affects all types of people. Examples of unconscious bias include gender bias, cultural bias, age bias, language, and institutional bias.
 
@@ -81,7 +75,6 @@ The Center for Teaching and Learning (n.d.) at DePaul University provides some s
 
 You may read the detailed strategies from [Implicit Bias ↗](https://resources.depaul.edu/teaching-commons/teaching-guides/inclusive-teaching/Pages/implicit-bias.aspx).
 
-<!-- grav: [exercise title="Activity 3: Identify Biases"] -->
 > [!TIP]
 > **Activity 3: Identify Biases**
 >

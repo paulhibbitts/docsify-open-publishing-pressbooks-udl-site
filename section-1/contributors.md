@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/06.contributors/section-page.md"}
-title: "Contributors"
--->
-
-<!-- grav:gen -->
 # Contributors
-<!-- /grav:gen -->
 
 The UDL for IDEA Guide has been a collaborative effort between 10 post-secondary institutions in Ontario from both the University and College sectors committed to the project.
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/02.22-applying-udl-in-the-development-phase/section-page.md"}
-title: "2.2: Applying UDL in the Development Phase"
--->
-
-<!-- grav:gen -->
 # 2.2: Applying UDL in the Development Phase
-<!-- /grav:gen -->
 
 ![Development phase of UDL flow diagram.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Develoment-300x107.png)
 
@@ -37,7 +31,6 @@ In *UDL at Mohawk College* \[2:50\], Melodie Spencer, a Professor in the Early C
 
 [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=54)
 
-<!-- grav: [exercise title="Activity 3: Test your Knowledge"] -->
 > [!TIP]
 > **Activity 3: Test your Knowledge**
 >

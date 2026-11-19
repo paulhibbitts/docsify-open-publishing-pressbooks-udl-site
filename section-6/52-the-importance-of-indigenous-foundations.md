@@ -1,14 +1,7 @@
-<!-- grav: {"file":"01.universal-design-for-2026/06.section-6/02.52-the-importance-of-indigenous-foundations/section-page.md"}
-title: "5.2: The Importance of Indigenous Foundations"
--->
-
-<!-- grav:gen -->
 # 5.2: The Importance of Indigenous Foundations
-<!-- /grav:gen -->
 
 ## **Storytelling and Oral Tradition**
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -46,7 +39,6 @@ Sacred, secular and spiritual connectedness are at the root of Indigenous worldv
 
 As post-secondary education in Ontario and across the country slowly starts to incorporate more Indigenous content in their programs, it is important for educators to understand the context of spirituality in Indigenous knowledges and worldviews and how these may be perceived by learners and non-Indigenous colleagues. This can be uncomfortable for many faculty and students who were trained in traditional Western educational settings, but it is critical that we engage respectfully and appropriately with these elements of Indigenous pedagogies. According to Hoffman,
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -75,7 +67,6 @@ The video below \[6:12\] contains Jaimie’s story about the monument, [the impo
 
 Robin Wall Kimmerer in her book, Braiding Sweetgrass, mentions several teachings that have been handed down generation after generation. In her chapter, “Mishkos Kenomagwen: The Teachings of Grass”, she discusses learning from Elder Lena about how to select one of the four sacred medicines – sweetgrass. Lena says,
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -88,7 +79,6 @@ The following video, *[The Importance of Relationality and Intergenerational Lea
 
 As a post-secondary educator, you may wish to engage Elders or Knowledge Keepers in events or consultations, to help you learn more about Indigenous pedagogies. The *[Respecting and Working with Elders](https://uwin365-my.sharepoint.com/:v:/g/personal/kechego1_uwindsor_ca/IQAR966-QliESKhrnaEGZul3AfSIy__8cKPWhSov14WtZ_s?e=Ba6pN1) \[6:17\]* video shares some common-sense respectful approaches to consider in these engagements.
 
-<!-- grav: [exercise title="Activity 2: Reflection"] -->
 > [!TIP]
 > **Activity 2: Reflection**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/03.63-udl-for-edi/section-page.md"}
-title: "6.3: UDL for EDI"
--->
-
-<!-- grav:gen -->
 # 6.3: UDL for EDI
-<!-- /grav:gen -->
 
 In post-secondary education, challenges related to EDI can result from assumptions related to unconscious bias and lack of recognition of positionality, and how an individual’s multiple identities intersect to form privilege and oppression.
 
@@ -44,7 +38,6 @@ Applying UDL in assessments includes not only developing assessments that are eq
 
 For other examples, read this [Key Guiding Questions (Doc)](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Key-Guiding-Questions.docx)
 
-<!-- grav: [exercise title="Activity 3: Case Study and Brainstorming"] -->
 > [!TIP]
 > **Activity 3: Case Study and Brainstorming**
 >

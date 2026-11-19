@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/04.section-4/02.32-aoda-and-the-learning-environment/section-page.md"}
-title: "3.2: AODA and the Learning Environment"
--->
-
-<!-- grav:gen -->
 # 3.2: AODA and the Learning Environment
-<!-- /grav:gen -->
 
 In 2005, the Ontario Government established the Accessibility for Ontarians with Disabilities Act (AODA) with the goal of making Ontario fully accessible by 2025. The focus was to ensure persons with disabilities could fully participate in everyday life in our communities and the economy.
 
@@ -25,7 +19,6 @@ The AODA established the Integrated Accessibility Standard Regulations (IASR), a
 
 The General Requirements include training, procurement, planning, accountability (reporting), and policies and processes.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -62,7 +55,6 @@ All internet websites and web content, including web-based applications, must co
 - [Success criterion 1.2.4 Captions (Live) ↗](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html) , and
 - [Success criterion 1.2.5 Audio Description (Pre-recorded) ↗](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -78,7 +70,6 @@ Upon request, institutions must provide students who have disabilities education
 - procuring through purchase or obtaining by other means an accessible or conversion-ready electronic format of educational or training resources or materials, where available, or
 - arranging for the provision of a comparable resource in an accessible or conversion-ready electronic format, if educational or training resources or materials cannot be procured, obtained by other means or converted into an accessible format.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -92,7 +83,6 @@ Upon request, institutions must provide students who have disabilities education
 
 When the materials requested are deemed unconvertible, an explanation must be provided to the requester, along with a summary of the information. More information on how to respond to such requests can be found in your academic accommodation policy.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -105,7 +95,6 @@ When the materials requested are deemed unconvertible, an explanation must be pr
 
 Institutions are required to provide training to educators with accessibility awareness training related to accessible program or course delivery and instruction and keep a record of the training provided, including the dates on which the training is provided and the number of individuals to whom it is provided.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -127,7 +116,6 @@ When requested, and where available, institution libraries shall provide, procur
 
 When the requested materials or resources are unconvertible, the library needs to explain the reason why and provide a summary of the information in a format that takes into account the accessibility needs of the person who made the request.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -138,7 +126,6 @@ When the requested materials or resources are unconvertible, the library needs t
 
  **Remember:** Accessibility is a proactive solution to providing equal access for all. It is the baseline of equal service. Accessibility is what we should expect to be ready for us without asking or planning ahead. It can be provided by following an easy-to-implement set of standards and practices that make “adaptation” unnecessary. We can benefit from accessibility without announcing or explaining our disabilities (Pulrang, 2013).
 
-<!-- grav: [exercise title="Activity 2: Reflect on AODA Requirements"] -->
 > [!TIP]
 > **Activity 2: Reflect on AODA Requirements**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/02.section-2/02.12-udl-guidelines/section-page.md"}
-title: "1.2: UDL Guidelines"
--->
-
-<!-- grav:gen -->
 # 1.2: UDL Guidelines
-<!-- /grav:gen -->
 
 Universal Design for Learning (UDL) is a curriculum design, development, and delivery framework used to create equitable, inclusive, and accessible learning environments. UDL assumes all learning environments are diverse and that all learners have variable learning needs. UDL works to provide learning spaces (both physical and virtual) where all students can effectively learn, and demonstrate their learning while advancing learner agency and supporting learners to be “purposeful and reflective, resourceful and authentic, strategic and action-oriented” (CAST, 2024).
 
@@ -74,7 +68,6 @@ The guidelines are not prescriptive, but instead offer informed suggestions that
 
 Some UDL implementers prefer to use a PDF version of the [UDL Guidelines ↗](https://udlguidelines.cast.org/#) from CAST that offer additional elements for each checkpoint. To learn more about the UDL Guidelines from CAST, consider reviewing the interactive version and accompanying resources on [The UDL Guidelines ↗](https://udlguidelines.cast.org/) website. The UDL Guidelines are consistently informed by user feedback and ongoing research, meaning the guidelines used in UDL for IDEA have been revised a number of times.
 
-<!-- grav: [exercise title="Activity 2: Reflect"] -->
 > [!TIP]
 > **Activity 2: Reflect**
 >

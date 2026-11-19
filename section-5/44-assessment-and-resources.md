@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.universal-design-for-2026/05.section-5/04.44-assessment-and-resources/section-page.md"}
-title: "4.4: Assessment and Resources"
--->
-
-<!-- grav:gen -->
 # 4.4: Assessment and Resources
-<!-- /grav:gen -->
 
-<!-- grav: [exercise title="Module Activity: Workshop Planning"] -->
 > [!TIP]
 > **Module Activity: Workshop Planning**
 >

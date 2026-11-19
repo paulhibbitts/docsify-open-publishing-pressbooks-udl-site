@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/06.26-assessment-and-resources/section-page.md"}
-title: "2.6: Assessment and Resources"
--->
-
-<!-- grav:gen -->
 # 2.6: Assessment and Resources
-<!-- /grav:gen -->
 
 ## **Module Activity: UDL Course Assessment Tool**
 

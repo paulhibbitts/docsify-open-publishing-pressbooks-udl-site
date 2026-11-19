@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/04.section-4/04.33-ohrc-and-accommodations/section-page.md"}
-title: "3.3: OHRC and Accommodations"
--->
-
-<!-- grav:gen -->
 # 3.3: OHRC and Accommodations
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/Untitled-design.png" alt="Woman in a wheelchair with a guide dog, two sign language interpreters signing, and a disability parking space">
@@ -17,7 +11,6 @@ Under the Ontario Human Rights Code (OHRC), people are protected from discrimina
 
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -64,7 +57,6 @@ The following are steps education providers can take to provide students with di
  **STEP 2:** Removing barriers
  **STEP 3:** Accommodating remaining needs (OHRC, n.d.)
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -117,7 +109,6 @@ No other considerations can be properly taken into account under Ontario law. Th
 
 It is important to note that the “undue hardship” threshold is quite high, and the educational provider has the onus of proof.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -134,7 +125,6 @@ The Commission has taken the position that “academic freedom is unrelated to t
 
 Once receiving appropriate accommodation, a student must be able to meet bona fide academic requirements, such as meeting academic standards for admission, demonstrating specific skills, mastering the curriculum, and passing the class, course, or program.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -149,7 +139,6 @@ This OHRC (2013) video, *Working Together: Part 3. Understanding the Duty to Acc
 
 > **Working Together: Part 3. Understanding the Duty to Accommodate:** [Working Together: Part 3. Understanding the Duty to Accommodate](https://ecampusontario.pressbooks.pub/universaldesign2/?p=84#oembed-1)
 
-<!-- grav: [exercise title="Activity 3: Reflect on Case Study "] -->
 > [!TIP]
 > **Activity 3: Reflect on Case Study **
 >

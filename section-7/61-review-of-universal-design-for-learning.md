@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/01.61-review-of-universal-design-for-learning/section-page.md"}
-title: "6.1: Review of Universal Design for Learning"
--->
-
-<!-- grav:gen -->
 # 6.1: Review of Universal Design for Learning
-<!-- /grav:gen -->
 
 Think back to how you defined Universal Design for Learning in Module 1: Introduction and Overview of UDL. If you opted to write your definition down, take a moment to review it now before continuing onto review the UDL Guidelines:
 
@@ -20,7 +14,6 @@ Every decision we make, as educators, includes unconscious bias. UDL helps us to
 
 A primary goal of UDL implementation in post-secondary education in Ontario is to create more equitable, inclusive and accessible learning environments for all students. To learn more about unconscious bias, you are invited to review Module 4.3 Uncovering Unconscious Bias as well as the resources section at the end of this module.
 
-<!-- grav: [exercise title="Activity 1: Case Studies"] -->
 > [!TIP]
 > **Activity 1: Case Studies**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/01.section-1/04.preface/section-page.md"}
-title: "Preface"
--->
-
-<!-- grav:gen -->
 # Preface
-<!-- /grav:gen -->
 
 The UDL for IDEA Guide is a dynamic and flexible credential designed for post-secondary educators with modules and elements that can be repurposed for use in multiple contexts (e.g., student learning, administration training, etc.). The content models UDL principles, embeds accessibility elements and strives to decolonise the curriculum design and delivery with the goal of meeting equity, diversity, and inclusion (EDI) objectives, as well as Accessibility for Ontarians with Disabilities Act (AODA) requirements.
 
@@ -15,7 +9,6 @@ The guide aims to:
 - Begin the process of changing behaviour and beliefs about accessibility and the purpose and practicalities of using UDL as a design framework in post-secondary education.
 - Establish an adaptable pedagogical and technical framework for a Microcredential that can be adapted to the local context of individual institutions.
 
-<!-- grav: [objectives] -->
 > [!TIP]
 > **Learning Objectives**
 >
@@ -64,7 +57,6 @@ It is important to address these issues/racism and colonization of the curriculu
 
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -85,7 +77,6 @@ It is important to address these issues/racism and colonization of the curriculu
 
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

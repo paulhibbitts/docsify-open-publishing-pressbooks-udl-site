@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/05.25-implementation-of-udl/section-page.md"}
-title: "2.5: Implementation of UDL"
--->
-
-<!-- grav:gen -->
 # 2.5: Implementation of UDL
-<!-- /grav:gen -->
 
 Given what you have learned about UDL thus far, it is likely that you have already implemented elements of it in your teaching. If you have reflected on a lesson, determined the barriers for your learners and made changes for the next delivery you have begun your UDL journey. If you have considered the diverse needs of your learners and proactively provided support, you have already started embedding UDL. If you have questioned whether the assessments you use accurately evaluate your learning outcomes, and made changes to make them more authentic, you are well on your way. Implementing UDL in your current context may seem daunting, but there are some great ways to get started to gain quick benefits for educators and learners.
 
@@ -71,7 +65,6 @@ To apply the +1 approach, look at what you are already doing in your teaching an
 
 Once you have determined the best way to proceed with your UDL implementation, planning is essential to avoid some of the challenges with time noted earlier. Remember, the implementation of UDL is a dynamic process; small changes over time will ultimately create a course or curriculum that is more inclusive, equitable and accessible. The learning activity for this topic will walk you through your UDL implementation planning process.
 
-<!-- grav: [exercise title="Activity 6: Plan"] -->
 > [!TIP]
 > **Activity 6: Plan**
 >

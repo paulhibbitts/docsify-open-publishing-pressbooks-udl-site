@@ -1,12 +1,5 @@
-<!-- grav: {"file":"01.universal-design-for-2026/07.section-7/06.66-assessment-and-resources/section-page.md"}
-title: "6.6: Assessment and Resources"
--->
-
-<!-- grav:gen -->
 # 6.6: Assessment and Resources
-<!-- /grav:gen -->
 
-<!-- grav: [exercise title="Module Activity: Goal Refinement"] -->
 > [!TIP]
 > **Module Activity: Goal Refinement**
 >

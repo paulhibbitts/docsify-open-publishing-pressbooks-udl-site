@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/04.24-barriers-to-udl-implementation/section-page.md"}
-title: "2.4: Barriers to UDL Implementation"
--->
-
-<!-- grav:gen -->
 # 2.4: Barriers to UDL Implementation
-<!-- /grav:gen -->
 
 By this point, you have learned about the UDL Guidelines, principles, and implementation examples for each phase in the curriculum design, development, and delivery process. While UDL implementation can create a more inclusive, equitable and accessible learning environment for all learners, it is not without challenges. It is imperative to reflect on both learner and educator needs and proactively address possible barriers to your UDL implementation when you can. Some common barriers to UDL implementation in post-secondary education include time, support, UDL knowledge.
 
@@ -64,7 +58,6 @@ In *UDL at Mohawk College* \[2:27\] Ryan Iles, a Professor in the Liberal Studie
 
 [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=63)
 
-<!-- grav: [exercise title="Activity 5: Reflecting on Barriers "] -->
 > [!TIP]
 > **Activity 5: Reflecting on Barriers **
 >

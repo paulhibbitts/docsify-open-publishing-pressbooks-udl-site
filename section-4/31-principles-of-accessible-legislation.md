@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/04.section-4/01.31-principles-of-accessible-legislation/section-page.md"}
-title: "3.1: Principles of Accessible Legislation"
--->
-
-<!-- grav:gen -->
 # 3.1: Principles of Accessible Legislation
-<!-- /grav:gen -->
 
 Every individual in Canada is entitled to fundamental human rights and to live free from discrimination and harassment. Here in Canada, these human rights are protected by federal, provincial, and territorial legislation (Human Rights Legal Support Centre, 2021).
 
@@ -12,7 +6,6 @@ Every individual in Canada is entitled to fundamental human rights and to live f
 
 These laws arise out of the Universal Declaration of Human Rights, a milestone document that was proclaimed by the newly developed United Nations in 1948. Broken down further, each Canadian province and territory have their own law against discrimination that apply to all provincially regulated activities. This includes protecting the fundamental human rights for persons with disabilities.
 
-<!-- grav: [exercise title="Activity 1: Case Study"] -->
 > [!TIP]
 > **Activity 1: Case Study**
 >

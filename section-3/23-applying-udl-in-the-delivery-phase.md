@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/03.section-3/03.23-applying-udl-in-the-delivery-phase/section-page.md"}
-title: "2.3: Applying UDL in the Delivery Phase "
--->
-
-<!-- grav:gen -->
 # 2.3: Applying UDL in the Delivery Phase 
-<!-- /grav:gen -->
 
 ![Delivery phase of UDL flow diagram.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Delivery-300x130.png)
 
@@ -31,7 +25,6 @@ In *UDL at Mohawk College* \[2:27\], Lisa Pender, a Professor in the Liberal Stu
 
 [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=57)
 
-<!-- grav: [exercise title="Activity 4: Test your Knowledge"] -->
 > [!TIP]
 > **Activity 4: Test your Knowledge**
 >

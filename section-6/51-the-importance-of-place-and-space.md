@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/06.section-6/01.51-the-importance-of-place-and-space/section-page.md"}
-title: "5.1: The Importance of Place and Space"
--->
-
-<!-- grav:gen -->
 # 5.1: The Importance of Place and Space
-<!-- /grav:gen -->
 
 ## **Land-Based Education**
 
@@ -14,7 +8,6 @@ Some Indigenous languages also reflect this, which is one of the reasons why it 
 
 Robin Wall Kimmerer (a botanist, Professor and enrolled member of the Citizen Potawatomi Nation), shares a particularly striking passage in her book, Braiding Sweetgrass, that helps to illustrate this interconnectedness that doesn’t exist within the English language. According to Dr. Kimmerer, approximately 30% of words in English are verbs and in Potawatami, that number rises to approximately 70% (2013, p. 53). This is significant as it indicates the concept of experiencing the world in Indigenous tradition, rather than possessing it, as in Western tradition.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -52,7 +45,6 @@ Experiential learning plays a significant role in Indigenous pedagogies. It has 
 
 From the whitepaper, the following was used to help refine an experiential learning definition drawing upon many western influential researchers including Kolb, Dewey, Lewin, and Piaget (University of Toronto, 2017):
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -70,7 +62,6 @@ From the whitepaper, the following was used to help refine an experiential learn
 
  Dr. Marie Battiste (2002) summarizes an Indigenous approach to experiential learning, with links to UDL.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -81,7 +72,6 @@ From the whitepaper, the following was used to help refine an experiential learn
 
 Post-secondary educators should consider how integrating experiential learning opportunities in their teaching may enhance learning for all of their students.
 
-<!-- grav: [exercise title="Activity 1: Self-Directed Activities for Your Discipline"] -->
 > [!TIP]
 > **Activity 1: Self-Directed Activities for Your Discipline**
 >

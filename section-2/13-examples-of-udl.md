@@ -1,10 +1,4 @@
-<!-- grav: {"file":"01.universal-design-for-2026/02.section-2/03.13-examples-of-udl/section-page.md"}
-title: "1.3: Examples of UDL"
--->
-
-<!-- grav:gen -->
 # 1.3: Examples of UDL
-<!-- /grav:gen -->
 
 We have offered a couple of examples of Universal Design (UD) in the previous topic of this module, but what does UDL look like? The following are some general examples organized by the UDL Guideline principles (Mohawk College, 2025).
 
@@ -74,7 +68,6 @@ For the purposes of this module, “online” learning environments are defined 
 
 You will notice that many of these examples can be adapted to any teaching and learning environment. You will also notice that UDL does not need to be large-scale projects or require you to dismantle a course. UDL can be small changes over time, offering more options when and where you can, reflecting on the impact of those changes, and continuously improving your teaching and your students’ learning. The end result will be a more inclusive, equitable and accessible learning space for all of your learners.
 
-<!-- grav: [exercise title="Activity 3: Minimizing Barriers to Hyflex Learning"] -->
 > [!TIP]
 > **Activity 3: Minimizing Barriers to Hyflex Learning**
 >
