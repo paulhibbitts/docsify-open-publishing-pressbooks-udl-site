@@ -9,8 +9,9 @@ These pages are the bridge's output as it is, shown like the book in Open Publis
 The original book is by Darla Benton Kearney, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Its Grav version is at https://demo.hibbittsdesign.org/variants/grav-open-publishing-quark2-pressbooks-udl – this version uses the same content:
 
 - `home.md` – the book's home page, with its cover image beside it
-- `section-1/` – Front Matter: about this guide, land acknowledgement, accessibility statement, preface, glossary and contributors
+- `section-1/` – Front Matter: about this guide, land acknowledgement, accessibility statement, preface and contributors
 - `section-2/` … `section-7/` – Modules 1 to 6, each with its pages
+- `section-8/` – Glossary
 
 Only the book is moved – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.
 
