@@ -2,11 +2,12 @@
 
 By this point, you have learned about the UDL Guidelines, principles, and implementation examples for each phase in the curriculum design, development, and delivery process. While UDL implementation can create a more inclusive, equitable and accessible learning environment for all learners, it is not without challenges. It is imperative to reflect on both learner and educator needs and proactively address possible barriers to your UDL implementation when you can. Some common barriers to UDL implementation in post-secondary education include time, support, UDL knowledge.
 
-![Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Common-Barriers-1024x905.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Common-Barriers-1024x905.png" alt="Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.">
+<figcaption>Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.</figcaption>
+</figure>
 
-*Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.*
-
-**Time**
+ **Time**
 
 ![Justin veenema gf03h i7c9y unsplash 1024x683](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/justin-veenema-gf03H-I7C9Y-unsplash-1024x683-1.jpg)
 
@@ -32,7 +33,9 @@ Support for UDL implementers in higher education in Ontario can feel scarce. The
 
 However, UDL support does exist, just not always in the places educators might expect. Within post-secondary institutions, there are a wealth of talented and dedicated educators in a variety of fields and departments. While you may not have a specific UDL support role, it is likely that there are support persons for UDL implementation throughout the institution. Select each support listed below to learn more about each one.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=63#h5p-8)
+
+<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
  Creating a list of UDL support persons or groups, for your educational context, can help build a solid support network for your continued UDL implementation.
 
@@ -73,7 +76,9 @@ In *UDL at Mohawk College* \[2:27\] Ryan Iles, a Professor in the Liberal Studie
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work! This activity is untimed, you may have as many attempts as you would like and your scores and/or attempts are not tracked.
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=63#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

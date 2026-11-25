@@ -47,7 +47,9 @@ Loui Lord Nelson developed a process for UDL implementation that both starts and
 
 To view the steps of this process, navigate through the dialog cards below using the blue turn button to flip the card and the blue arrow button to advance to the next card.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#h5p-17)
+
+<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=17" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
  (Nelson, 2014, p. 136)
 
@@ -74,11 +76,17 @@ Once you have determined the best way to proceed with your UDL implementation, p
 > 2. Within the semester or academic year
 > 3. When you develop, redevelop, or create a new lesson/module/course
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#h5p-12)
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#h5p-11)
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=12" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#h5p-10)
+>
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=11" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
+>
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=10" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 > ---
 >
@@ -86,7 +94,9 @@ Once you have determined the best way to proceed with your UDL implementation, p
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

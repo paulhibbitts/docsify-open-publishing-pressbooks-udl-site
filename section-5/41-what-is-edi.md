@@ -4,22 +4,24 @@ EDI is an acronym that includes the three interrelated concepts of equity, diver
 
 ## Equity
 
-![see saw depiction of equity showing accommodations that consider people’s needs](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/justice-1-300x300.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/justice-1-300x300.png" alt="see saw depiction of equity showing accommodations that consider people’s needs">
+<figcaption>(Icon made by noomtah, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by noomtah, www.flaticon.com)*
-
-We should first start with what equality is and what equity is, as the two concepts are generally confused with one another.
+ We should first start with what equality is and what equity is, as the two concepts are generally confused with one another.
 
 - Equality generally means treating people the same way, to give everyone equal access to opportunities and benefits in society.
 - Equity includes treating some people differently, to take into consideration some people’s particular needs and situations (Ontario Human Rights Commission, n.d.)
 
 For example, in the picture below, three people of different heights are trying to reach an apple on a tree. On the left, equality shows everyone is given the same height box to stand on, so only the tallest person could get the apple. On the right, equity shows each person is provided with different numbers of boxes that help all of them get the apple.
 
-![Six people picking apples from a tree; three people stand on boxes in order to reach the apples](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Equity-Vs-Equality-scaled-1.jpg)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Equity-Vs-Equality-scaled-1.jpg" alt="Six people picking apples from a tree; three people stand on boxes in order to reach the apples">
+<figcaption>(Saskatoon Health Region, 2014)</figcaption>
+</figure>
 
-*(Saskatoon Health Region, 2014)*
-
-Equity is a process that ensures everyone has access to the same opportunities. Equity appreciates that privileges and barriers exist and that, as a result, we all don’t start from the same place. Rather, each of us comes from a different background. Equity is an approach that starts with acknowledging this unequal starting place and makes efforts to address and change this imbalance (Bolger, 2020).
+ Equity is a process that ensures everyone has access to the same opportunities. Equity appreciates that privileges and barriers exist and that, as a result, we all don’t start from the same place. Rather, each of us comes from a different background. Equity is an approach that starts with acknowledging this unequal starting place and makes efforts to address and change this imbalance (Bolger, 2020).
 
 **Designing instruction:** In post-secondary settings, this means, for example, in a course, the instructor does not expect students to have a camera on their computer, or the ability to draw a figure on a screen. Selecting a textbook that is available in digital format
 
@@ -27,11 +29,12 @@ Equity is a process that ensures everyone has access to the same opportunities. 
 
 ## Diversity
 
-![Three people with a pride flag in between them.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/001-diversity-300x300-1.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/001-diversity-300x300-1.png" alt="Three people with a pride flag in between them.">
+<figcaption>(Icon made by surang, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by surang, www.flaticon.com)*
-
-Now, take a minute to think about the diversity of your own team or organization. What do you think? How would your experience change if you were of a different gender, sexual orientation, race, religion, or ability?
+ Now, take a minute to think about the diversity of your own team or organization. What do you think? How would your experience change if you were of a different gender, sexual orientation, race, religion, or ability?
 
 Diversity is the presence, in an organization or a community, of a wide range of people with different backgrounds, abilities and attributes including ethnicity, race, colour, religion, age, gender and sexual orientation (Ontario Human Rights Commission, n.d.).
 
@@ -47,11 +50,12 @@ Organizations may ask these questions if they are interested in promoting divers
 
 ## Inclusion
 
-![Black, brown, and white hands encircle a heart.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/003-love-300x300-1.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/003-love-300x300-1.png" alt="Black, brown, and white hands encircle a heart.">
+<figcaption>(Icon made by Freepik, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by Freepik, www.flaticon.com)*
-
-As you work through the content below, think about how you might react if someone asked you, “What is your organization doing to become a more inclusive environment?”
+ As you work through the content below, think about how you might react if someone asked you, “What is your organization doing to become a more inclusive environment?”
 
 Inclusion refers to taking into account differences among individuals and groups when designing something (e.g., policy, program, curriculum, building, shared space) to avoid creating barriers. Inclusion is about people with different identities feeling or being valued and welcomed within a given setting. As long-time DEI educator, [Verna Myers ↗](http://vernamyers.com/) (2018) puts it: “Diversity is being asked to the party. Inclusion is being asked to dance.”
 
@@ -67,11 +71,12 @@ If one is focused on inclusivity, an organization may ask:
 
 ## What Equity, Diversity, and Inclusion Really Means
 
-![Infographic of diversity, equity, and inclusion.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/DesignWeekPortland-DEI-Panel-Slide-2000px_1573693570-1024x576-1.jpg)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/DesignWeekPortland-DEI-Panel-Slide-2000px_1573693570-1024x576-1.jpg" alt="Infographic of diversity, equity, and inclusion.">
+<figcaption>(Portland, 2020)</figcaption>
+</figure>
 
-*(Portland, 2020)*
-
-When examining these concepts together, we can say that equity is described as fairness, sameness, and appreciating diversity and inclusion. Diversity is often perceived to be about points of view, representation, and supporting inclusion. Inclusion is about creating environments open to feedback, supporting diversity, and being transparent and flexible.
+ When examining these concepts together, we can say that equity is described as fairness, sameness, and appreciating diversity and inclusion. Diversity is often perceived to be about points of view, representation, and supporting inclusion. Inclusion is about creating environments open to feedback, supporting diversity, and being transparent and flexible.
 
 There are overlaps and contrasts here, and it can be difficult at first to disentangle these definitions:
 
@@ -94,7 +99,9 @@ When considering EDI in courses/modules/lessons that you have already created, u
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=98#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

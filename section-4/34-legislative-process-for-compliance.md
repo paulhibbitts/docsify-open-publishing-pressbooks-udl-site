@@ -76,7 +76,9 @@ Documentation is also helpful in validating the credibility of your case in a Tr
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=80#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

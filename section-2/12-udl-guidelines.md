@@ -12,7 +12,9 @@ UDL guidelines are based on the three primary brain networks shown in the slides
 
 This slide show describes key facts about the brain from a UDL perspective. To advance to the next slide, click the blue progress bar at the bottom of the image or the small arrow next to the 1/3 text.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=37#h5p-3)
+
+<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=3" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 (CAST, 2018)
 
@@ -53,11 +55,12 @@ Each network contains considerations (three for each network making nine in tota
 
 The guidelines are not prescriptive, but instead offer informed suggestions that can be used in any program, course or learning environment to support masterful learning and accurate assessment. Some post-secondary institutions use a streamlined version of the UDL framework to provide more flexibility for application (as shown below).
 
-![See text version of the content (Word document link below).](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/UDL-Guidelines.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/UDL-Guidelines.png" alt="See text version of the content (Word document link below).">
+<figcaption>(Mohawk College, 2025) <a style="text-align: center;font-size: 1em" href="https://www.mohawkcollege.ca/sites/default/files/CTL/images/UDL%20Guidelines%20Description-3.0.docx" target="_blank" rel="noopener">UDL Graphic Organizer Plain Text Description (Doc) ↗</a></figcaption>
+</figure>
 
-*(Mohawk College, 2025) [UDL Graphic Organizer Plain Text Description (Doc) ↗](https://www.mohawkcollege.ca/sites/default/files/CTL/images/UDL%20Guidelines%20Description-3.0.docx)*
-
-The video, *What is UDL?* \[3:34\] by Mohawk College (2025), explains how all ofthe UDL components work together.
+ The video, *What is UDL?* \[3:34\] by Mohawk College (2025), explains how all ofthe UDL components work together.
 
 [View embedded media online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=37)
 
@@ -82,7 +85,9 @@ Some UDL implementers prefer to use a PDF version of the [UDL Guidelines ↗](ht
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=37#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
 ---

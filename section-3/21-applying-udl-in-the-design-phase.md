@@ -41,7 +41,9 @@ In *UDL at Mohawk College* \[2:43\], Tara Dinyer, Professor in the Health, Welln
 >
 > **This activity is untimed, you may have as many attempts as you would like and your scores and/or attempts are not tracked.**
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51#h5p-5)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=5" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

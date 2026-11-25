@@ -9,7 +9,9 @@ There are two ways to navigate through the content:
 
 For additional information on how to navigate through this guide, click the plus buttons on the interactive image below.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=17#h5p-1)
+
+<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=1" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
  ## **Overview**
 

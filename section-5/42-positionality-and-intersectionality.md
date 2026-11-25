@@ -18,11 +18,12 @@ Related to positionality, intersectionality acknowledges the complex relationshi
 
 The following graphic entitled “Intersectionality” visually displays how social identities intersect with one another and are wrapped in systems of power. For example, using the imagery of a spirograph, Duckworth (2020) colour-codes various social identities including race, ethnicity, gender identity, class, language, religion, ability, sexuality, mental health, age, education, and body size.
 
-![Spirograph showing intersections of identities.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/50245846893_50af0d5b60_k-1024x1024.jpg)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/50245846893_50af0d5b60_k-1024x1024.jpg" alt="Spirograph showing intersections of identities.">
+<figcaption>(Duckworth, 2020) <a style="text-align: justify;font-size: 1em" href="https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx" target="_blank" rel="noopener" data-url="https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx">Image description (Doc) ↗</a></figcaption>
+</figure>
 
-*(Duckworth, 2020) [Image description (Doc) ↗](https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx)*
-
-## Social Identities, Privilege and Oppression
+ ## **Social Identities, Privilege and Oppression**
 
 Critical social psychology describes identity as a social construction that is learned through interactions with others and the world, and that has a strong impact on who we become (Allen & Rosatto, as cited in Shah, 2018). Social privilege exists on the basis of complex and intersecting social identities, such as race, gender, ability, class, faith/religion, age and sexuality and the relative distance of these identities to dominant identities and power (Black & Stone, as cited in Shah, 2018).
 
@@ -43,9 +44,10 @@ Sylvia Duckworth’s “wheel of power/privilege” is another visual representa
 - Language: English, Learned English, non-English monolingual
 - Gender: cisgender man; cisgender woman; trans, intersex, nonbinary
 
-![Wheel divided into 12 wedges showing categories of power and privilege.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/50500299716_b72eec1092_k-1024x1024-1.jpg)
-
-*(Duckworth, 2020) [Image Description (Doc)](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx)*
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/50500299716_b72eec1092_k-1024x1024-1.jpg" alt="Wheel divided into 12 wedges showing categories of power and privilege.">
+<figcaption>(Duckworth, 2020) <a href="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx" data-url="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx">Image Description (Doc)</a></figcaption>
+</figure>
 
 > [!TIP]
 > **Activity 2: Define Yourself**
@@ -64,7 +66,9 @@ Sylvia Duckworth’s “wheel of power/privilege” is another visual representa
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=103#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

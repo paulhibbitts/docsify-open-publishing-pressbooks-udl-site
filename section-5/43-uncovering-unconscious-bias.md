@@ -14,11 +14,12 @@ A vast body of research on unconscious bias shows that there are approximately 1
 
 ### Affinity Bias
 
-![Two men side by side, one with his arm over the other's shoulder](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Affinity-Bias-1.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Affinity-Bias-1.png" alt="Two men side by side, one with his arm over the other&amp;#039;s shoulder">
+<figcaption>(Icon made by Freepik, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by Freepik, www.flaticon.com)*
-
-Affinity bias (also known as the similarity bias) is when people like people who are perceived to be just like them. Any perceived connection, however big or small, can result in an affinity bias. Affinity bias is fertile ground for the exclusion of people. Our natural instinct to gravitate towards people who are like us. But making decisions solely on someone who is like ourself can cause tunnel vision.
+ Affinity bias (also known as the similarity bias) is when people like people who are perceived to be just like them. Any perceived connection, however big or small, can result in an affinity bias. Affinity bias is fertile ground for the exclusion of people. Our natural instinct to gravitate towards people who are like us. But making decisions solely on someone who is like ourself can cause tunnel vision.
 
 The PwC (2017) video, *Blind spots: Broaden perspectives* \[3:24\], discusses similarity bias and how to overcome it.
 
@@ -26,27 +27,30 @@ The PwC (2017) video, *Blind spots: Broaden perspectives* \[3:24\], discusses si
 
 ### Confirmation Bias
 
-![Man with a thought bubble with a checkmark in it.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/confirmation-bias.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/confirmation-bias.png" alt="Man with a thought bubble with a checkmark in it.">
+<figcaption>(Icon made by Freepik, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by Freepik, www.flaticon.com)*
-
-Confirmation biases are realized when people attempt to prove assumptions and stereotypes. Confirmation bias impacts the organizational culture since people seek to confirm their beliefs or stereotypes in their interactions. Confirmation bias can affect assignments to work teams, and opportunities to participate in decision-making processes. People who exhibit confirmation bias do so after learning some aspect about a person or group and will then unconsciously seek confirmation or search for evidence to prove their assumptions. Remote learning can exacerbate confirmation bias since there is less opportunity to get to know people due to limited contact, whereas people will spend time confirming instead of getting to know someone.
+ Confirmation biases are realized when people attempt to prove assumptions and stereotypes. Confirmation bias impacts the organizational culture since people seek to confirm their beliefs or stereotypes in their interactions. Confirmation bias can affect assignments to work teams, and opportunities to participate in decision-making processes. People who exhibit confirmation bias do so after learning some aspect about a person or group and will then unconsciously seek confirmation or search for evidence to prove their assumptions. Remote learning can exacerbate confirmation bias since there is less opportunity to get to know people due to limited contact, whereas people will spend time confirming instead of getting to know someone.
 
 ### Groupthink or Conformity Bias
 
-![Three people thinking the same thing](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Group-Think.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Group-Think.png" alt="Three people thinking the same thing">
+<figcaption>(Icon made by Freepik from www.flaticon.com)</figcaption>
+</figure>
 
-*(Icon made by Freepik from www.flaticon.com)*
-
-Groupthink is a type of unconscious bias where people want to achieve group consensus. People will adopt the thoughts and opinions of the group while setting aside their personal beliefs and values. Groupthink is present in many aspects but is mostly found to occur during decision-making processes. The most damaging effect of groupthink is the pressure on group members to conform to the group and form a consensus that results in the exclusion of other ideas, perspectives, talents, skills, and thoughts. Remote collaboration requires a diversity of thought, experiences, and backgrounds.
+ Groupthink is a type of unconscious bias where people want to achieve group consensus. People will adopt the thoughts and opinions of the group while setting aside their personal beliefs and values. Groupthink is present in many aspects but is mostly found to occur during decision-making processes. The most damaging effect of groupthink is the pressure on group members to conform to the group and form a consensus that results in the exclusion of other ideas, perspectives, talents, skills, and thoughts. Remote collaboration requires a diversity of thought, experiences, and backgrounds.
 
 ### Perception Bias
 
-![Sikh man, indian woman, black woman.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Perception-Bias-300x135-1.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Perception-Bias-300x135-1.png" alt="Sikh man, indian woman, black woman.">
+<figcaption>(Icons made by Freepik, www.flaticon.com)</figcaption>
+</figure>
 
-*(Icons made by Freepik, www.flaticon.com)*
-
-Perception bias is when people form generalized stereotypes and assumptions about particular groups of people. This type of bias renders it virtually impossible for people with this bias to remain objective when considering an individual in any aspect of the learning environment. Perception bias is present when a person focuses on irrelevant factors about someone they are perceiving (such as their gender, ethnicity, race, national origin, sexual orientation, etc.) and the stereotypes associated with each, rather than the qualifications and personality of the individual.
+ Perception bias is when people form generalized stereotypes and assumptions about particular groups of people. This type of bias renders it virtually impossible for people with this bias to remain objective when considering an individual in any aspect of the learning environment. Perception bias is present when a person focuses on irrelevant factors about someone they are perceiving (such as their gender, ethnicity, race, national origin, sexual orientation, etc.) and the stereotypes associated with each, rather than the qualifications and personality of the individual.
 
 ### Conscious Bias
 
@@ -91,7 +95,9 @@ You may read the detailed strategies from [Implicit Bias ↗](https://resources.
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

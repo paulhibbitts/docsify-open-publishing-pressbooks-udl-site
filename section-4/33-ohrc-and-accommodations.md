@@ -1,10 +1,11 @@
 # 3.3: OHRC and Accommodations
 
-![Woman in a wheelchair with a guide dog, two sign language interpreters signing, and a disability parking space](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/Untitled-design.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/Untitled-design.png" alt="Woman in a wheelchair with a guide dog, two sign language interpreters signing, and a disability parking space">
+<figcaption>(sammateocountyphotos, 2012; PittCaleb, 2013; taberandrew, 2008)</figcaption>
+</figure>
 
-*(sammateocountyphotos, 2012; PittCaleb, 2013; taberandrew, 2008)*
-
-Ideally, developing a course utilizing UDL principles and following accessibility guidelines will proactively meet the needs of all students, including supports outlined in accommodation requests. This should help reduce time spent in retrofitting accommodations after the fact. However, as there is no “one size fits all” approach to learning, the need for individual accommodations within a learning environment will always be present. Designing a course with accessibility in mind and utilizing principles of UDL, the ability to accommodate individual requests and to pivot a portion of your course should require less labour.
+ Ideally, developing a course utilizing UDL principles and following accessibility guidelines will proactively meet the needs of all students, including supports outlined in accommodation requests. This should help reduce time spent in retrofitting accommodations after the fact. However, as there is no “one size fits all” approach to learning, the need for individual accommodations within a learning environment will always be present. Designing a course with accessibility in mind and utilizing principles of UDL, the ability to accommodate individual requests and to pivot a portion of your course should require less labour.
 
 Under the Ontario Human Rights Code (OHRC), people are protected from discrimination, either direct or indirect, in “services”, based on protected grounds. This protection includes education as a social area since education is a service within the meaning of the Code. This means that students with disabilities are covered by the Code. There are also protections under the Code for those who experience reprisal or are threatened with reprisal for trying to exercise their human rights (OHRC, 2003).
 
@@ -155,7 +156,9 @@ This OHRC (2013) video, *Working Together: Part 3. Understanding the Duty to Acc
 >
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=84#h5p-2)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
  ---

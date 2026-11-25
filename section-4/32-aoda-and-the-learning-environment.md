@@ -10,11 +10,12 @@ The video*, Discover: An Educator’s Introduction to the AODA* \[3:27\] by Onta
 
 The AODA established the Integrated Accessibility Standard Regulations (IASR), a grouping of legal requirements that institutions must follow to help identify, remove, and prevent barriers faced by persons with disabilities. These requirements are divided in two categories: General Requirements and Accessibility Standards.
 
-![AODA Integrated Accessibility Standard Regulations areas of coverage.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/AODA-Chart-Update.png)
+<figure>
+<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/AODA-Chart-Update.png" alt="AODA Integrated Accessibility Standard Regulations areas of coverage.">
+<figcaption>(Accessibility Services Canada, n.d.)</figcaption>
+</figure>
 
-*(Accessibility Services Canada, n.d.)*
-
-**General Requirements**
+ **General Requirements**
 
 The General Requirements include training, procurement, planning, accountability (reporting), and policies and processes.
 
@@ -133,7 +134,9 @@ When the requested materials or resources are unconvertible, the library needs t
 > 3. Read this [AODA Checklist (PDF) ↗](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/AODA-Checklist.pdf) or [AODA Checklist (Word) ↗](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/AODA-Checklist.docx) to find out steps with tools and resources.
 > 4.
 >
-> [View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=78#h5p-13)
+>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=13" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+>
 >
 
 ---
