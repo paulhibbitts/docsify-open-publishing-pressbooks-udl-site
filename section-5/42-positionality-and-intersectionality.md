@@ -12,18 +12,17 @@ Moreover, positionality is experienced differently in different contexts, and ca
 
 In this video, *What is Intersectionality?* \[1:54\] by the National Association of Independent Schools (2018), Professor Kimberlé Crenshaw talks about the study of how overlapping or intersecting social identities relate to systems and structures of discrimination.
 
-> **Kimberlé Crenshaw What is Intersectionality:** [Kimberlé Crenshaw What is Intersectionality](https://ecampusontario.pressbooks.pub/universaldesign2/?p=103#oembed-1)
+> **Embedded content:** [Kimberlé Crenshaw What is Intersectionality](https://ecampusontario.pressbooks.pub/universaldesign2/?p=103#oembed-1) (on the original Pressbooks page)
 
 Related to positionality, intersectionality acknowledges the complex relationship between social identities, and systems of power and oppression. Given the fluid, relational, and social construction of identities, intersectional paradigms recognize that every person has multiple and diverse identities (e.g., race, gender, sexual orientation, socio-economic status, dis/ability, beliefs, and worldview) that combine in unique ways to shape our perspectives, and experiences with oppression and privilege (Ontario Human Rights Commission, 2001). In this context, intersectionality recognizes that oppression does not exist within a vacuum, but rather intersecting oppressions work together in producing injustice (Collins, 2001).
 
 The following graphic entitled “Intersectionality” visually displays how social identities intersect with one another and are wrapped in systems of power. For example, using the imagery of a spirograph, Duckworth (2020) colour-codes various social identities including race, ethnicity, gender identity, class, language, religion, ability, sexuality, mental health, age, education, and body size.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/50245846893_50af0d5b60_k-1024x1024.jpg" alt="Spirograph showing intersections of identities.">
-<figcaption>(Duckworth, 2020) <a style="text-align: justify;font-size: 1em" href="https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx" target="_blank" rel="noopener" data-url="https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx">Image description (Doc) ↗</a></figcaption>
-</figure>
+![Spirograph showing intersections of identities.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/50245846893_50af0d5b60_k-1024x1024.jpg)
 
- ## **Social Identities, Privilege and Oppression**
+*(Duckworth, 2020) [Image description (Doc) ↗](https://ecampusontario.pressbooks.pub/app/uploads/sites/2238/2021/12/Crenshaw-Spirograph-Supplemental.docx)*
+
+## Social Identities, Privilege and Oppression
 
 Critical social psychology describes identity as a social construction that is learned through interactions with others and the world, and that has a strong impact on who we become (Allen & Rosatto, as cited in Shah, 2018). Social privilege exists on the basis of complex and intersecting social identities, such as race, gender, ability, class, faith/religion, age and sexuality and the relative distance of these identities to dominant identities and power (Black & Stone, as cited in Shah, 2018).
 
@@ -44,10 +43,9 @@ Sylvia Duckworth’s “wheel of power/privilege” is another visual representa
 - Language: English, Learned English, non-English monolingual
 - Gender: cisgender man; cisgender woman; trans, intersex, nonbinary
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/50500299716_b72eec1092_k-1024x1024-1.jpg" alt="Wheel divided into 12 wedges showing categories of power and privilege.">
-<figcaption>(Duckworth, 2020) <a href="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx" data-url="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx">Image Description (Doc)</a></figcaption>
-</figure>
+![Wheel divided into 12 wedges showing categories of power and privilege.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/50500299716_b72eec1092_k-1024x1024-1.jpg)
+
+*(Duckworth, 2020) [Image Description (Doc)](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Power-Wheel-Supplemental-2.docx)*
 
 > [!TIP]
 > **Activity 2: Define Yourself**

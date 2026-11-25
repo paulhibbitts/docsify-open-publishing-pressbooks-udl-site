@@ -14,12 +14,11 @@ Robin Wall Kimmerer (a botanist, Professor and enrolled member of the Citizen Po
 > “European languages often assign gender to nouns, but Potawatomi does not divide the world into masculine or feminine. Nouns and verbs are both animate and inanimate…In that moment I could smell the water of the bay, watch it rock against the shore and hear it sift onto the sand. A bay is a noun only if the water is dead. When bay is a noun, it is defined by humans, trapped between its shores and contained by the word. But the verb wiikwegamaa – to be a bay – releases the water from bondage and lets it live. “To be a bay” holds the wonder that, for this moment, the living water has decided to shelter itself between these shores, conversing with cedar roots and a flock of baby mergansers. Because it could do otherwise – become a stream or an ocean or a waterfall, and there are verbs for that, too. To be a hill, to be a sandy beach, to be a Saturday, all are possible verbs in a world where everything is alive. Water, land, and even a day, the language a mirror for seeing the animacy of the world, the life that pulses through all things, through pines and nuthatches and mushrooms. This is the language I hear in the woods; this is the language that lets us speak of what wells up all around us. And the vestiges of boarding schools, the soap-wielding missionary wraiths, hang their heads in defeat” (Kimmerer, 2013, p. 55).
 >
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Jaimie-at-the-bay-with-North-the-Swan.jpg" alt="Jaimie Kechego is pictured above at the shore of a local lake with a swan who seeks to connect with her.">
-<figcaption>(© Lorna Stolarchuk) Jaimie Kechego at Little River Corridor Pond talking with North, the Swan, as she seeks to connect with her.</figcaption>
-</figure>
+ ![Jaimie Kechego is pictured above at the shore of a local lake with a swan who seeks to connect with her.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Jaimie-at-the-bay-with-North-the-Swan.jpg)
 
- Watch[*The Importance of Land-Based Education*](https://uwin365-my.sharepoint.com/:v:/g/personal/kechego1_uwindsor_ca/IQCNg4sU8jhOTJG-KNYs_4QVARfStazJEUD40lMc6j3KW98?e=mXqWIJ) \[5:28\] video to see an example of land-based lessons at the Black Oak Heritage Park.
+*(© Lorna Stolarchuk) Jaimie Kechego at Little River Corridor Pond talking with North, the Swan, as she seeks to connect with her.*
+
+Watch[*The Importance of Land-Based Education*](https://uwin365-my.sharepoint.com/:v:/g/personal/kechego1_uwindsor_ca/IQCNg4sU8jhOTJG-KNYs_4QVARfStazJEUD40lMc6j3KW98?e=mXqWIJ) \[5:28\] video to see an example of land-based lessons at the Black Oak Heritage Park.
 
 ## Place-Based Education
 
@@ -27,21 +26,19 @@ Indigenous pedagogies connect learning to a specific place, and thus knowledge i
 
 The Learning Lodge on the Chippewa on the Thames First Nation (COTTFN) is being prepared as a site to host Indigenous learning, healing, and ceremony for its members. Connecting with Indigenous communities in your area may offer opportunities for place-based learning in your curriculum.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/TeepiThunderbird-1024x666-1.jpg" alt="Teepi Thunderbird">
-<figcaption>(© Shreyas Tambe, 2021) Tipi Thunderbird Site of Nimkii Binesi Zaswaaning (Thunderbird’s Nest).</figcaption>
-</figure>
+![Teepi Thunderbird](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/TeepiThunderbird-1024x666-1.jpg)
 
- ## **Experiential Learning**
+*(© Shreyas Tambe, 2021) Tipi Thunderbird Site of Nimkii Binesi Zaswaaning (Thunderbird’s Nest).*
+
+## Experiential Learning
 
 Experiential learning plays a significant role in Indigenous pedagogies. It has been used with Indigenous Peoples since time immemorial to equip generations with the knowledge, values, skills, spiritual, emotional, intellectual, and physical competencies needed to survive and thrive.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Jaimie-in-front-of-the-Nmaachihna-Enviro-education-Centre.jpg" alt="Jaimie in front of the Nmaachihna Enviro-education Centre.">
-<figcaption>(© Jaimie Kechego)</figcaption>
-</figure>
+![Jaimie in front of the Nmaachihna Enviro-education Centre.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Jaimie-in-front-of-the-Nmaachihna-Enviro-education-Centre.jpg)
 
- One contemporary view on experiential learning was undertaken by the University of Toronto when they developed a whitepaper exploring experiential learning as a strategic approach to enhance student learning while contributing to the larger community and societal needs. This view recognizes the value of holistic and multi-modal learning in addition to interacting with the learner’s environment.
+*(© Jaimie Kechego)*
+
+One contemporary view on experiential learning was undertaken by the University of Toronto when they developed a whitepaper exploring experiential learning as a strategic approach to enhance student learning while contributing to the larger community and societal needs. This view recognizes the value of holistic and multi-modal learning in addition to interacting with the learner’s environment.
 
 From the whitepaper, the following was used to help refine an experiential learning definition drawing upon many western influential researchers including Kolb, Dewey, Lewin, and Piaget (University of Toronto, 2017):
 

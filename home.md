@@ -17,7 +17,7 @@ Darla Benton Kearney
 </div>
 
 > [!IMPORTANT]
-> **Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition — Imported from Pressbooks**
+> **Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition – Imported from Pressbooks**
 >
 >
 > **Authors:** Darla Benton Kearney | **License:** CC BY 4.0 | **36 pages**
@@ -74,7 +74,17 @@ Accessibility, about, preface, and acknowledgements.
 
 </div>
 
+<div class="card">
+
+## [Glossary](section-8/README.md) <!-- {docsify-ignore} -->
+
+Terms used in this book.
+
 </div>
+
+</div>
+
+**[Start Reading →](section-1/about-this-guide.md)**
 
 Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition by Darla Benton Kearney © 2026 (2nd ed) is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 

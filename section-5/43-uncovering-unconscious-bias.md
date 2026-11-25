@@ -4,7 +4,7 @@ An unconscious bias (also known as implicit bias) is an implicit attitude, stere
 
 The following video, *Understanding unconscious bias* \[2:59\] by Royal Society (2015), gives an overview of unconscious bias.
 
-> **Understanding unconscious bias | The Royal Society:** [Understanding unconscious bias | The Royal Society](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-1)
+> **Embedded content:** [Understanding unconscious bias | The Royal Society](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-1) (on the original Pressbooks page)
 
 Unconscious biases are important to recognize in instances when quality, relevance and competence are being evaluated (University of California San Francisco, n.d.).
 
@@ -14,43 +14,39 @@ A vast body of research on unconscious bias shows that there are approximately 1
 
 ### Affinity Bias
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Affinity-Bias-1.png" alt="Two men side by side, one with his arm over the other&amp;#039;s shoulder">
-<figcaption>(Icon made by Freepik, www.flaticon.com)</figcaption>
-</figure>
+![Two men side by side, one with his arm over the other's shoulder](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Affinity-Bias-1.png)
 
- Affinity bias (also known as the similarity bias) is when people like people who are perceived to be just like them. Any perceived connection, however big or small, can result in an affinity bias. Affinity bias is fertile ground for the exclusion of people. Our natural instinct to gravitate towards people who are like us. But making decisions solely on someone who is like ourself can cause tunnel vision.
+*(Icon made by Freepik, www.flaticon.com)*
+
+Affinity bias (also known as the similarity bias) is when people like people who are perceived to be just like them. Any perceived connection, however big or small, can result in an affinity bias. Affinity bias is fertile ground for the exclusion of people. Our natural instinct to gravitate towards people who are like us. But making decisions solely on someone who is like ourself can cause tunnel vision.
 
 The PwC (2017) video, *Blind spots: Broaden perspectives* \[3:24\], discusses similarity bias and how to overcome it.
 
-> **Blind spots: Broaden perspectives:** [Blind spots: Broaden perspectives](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-2)
+> **Embedded content:** [Blind spots: Broaden perspectives](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-2) (on the original Pressbooks page)
 
 ### Confirmation Bias
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/confirmation-bias.png" alt="Man with a thought bubble with a checkmark in it.">
-<figcaption>(Icon made by Freepik, www.flaticon.com)</figcaption>
-</figure>
+![Man with a thought bubble with a checkmark in it.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/confirmation-bias.png)
 
- Confirmation biases are realized when people attempt to prove assumptions and stereotypes. Confirmation bias impacts the organizational culture since people seek to confirm their beliefs or stereotypes in their interactions. Confirmation bias can affect assignments to work teams, and opportunities to participate in decision-making processes. People who exhibit confirmation bias do so after learning some aspect about a person or group and will then unconsciously seek confirmation or search for evidence to prove their assumptions. Remote learning can exacerbate confirmation bias since there is less opportunity to get to know people due to limited contact, whereas people will spend time confirming instead of getting to know someone.
+*(Icon made by Freepik, www.flaticon.com)*
+
+Confirmation biases are realized when people attempt to prove assumptions and stereotypes. Confirmation bias impacts the organizational culture since people seek to confirm their beliefs or stereotypes in their interactions. Confirmation bias can affect assignments to work teams, and opportunities to participate in decision-making processes. People who exhibit confirmation bias do so after learning some aspect about a person or group and will then unconsciously seek confirmation or search for evidence to prove their assumptions. Remote learning can exacerbate confirmation bias since there is less opportunity to get to know people due to limited contact, whereas people will spend time confirming instead of getting to know someone.
 
 ### Groupthink or Conformity Bias
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Group-Think.png" alt="Three people thinking the same thing">
-<figcaption>(Icon made by Freepik from www.flaticon.com)</figcaption>
-</figure>
+![Three people thinking the same thing](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Group-Think.png)
 
- Groupthink is a type of unconscious bias where people want to achieve group consensus. People will adopt the thoughts and opinions of the group while setting aside their personal beliefs and values. Groupthink is present in many aspects but is mostly found to occur during decision-making processes. The most damaging effect of groupthink is the pressure on group members to conform to the group and form a consensus that results in the exclusion of other ideas, perspectives, talents, skills, and thoughts. Remote collaboration requires a diversity of thought, experiences, and backgrounds.
+*(Icon made by Freepik from www.flaticon.com)*
+
+Groupthink is a type of unconscious bias where people want to achieve group consensus. People will adopt the thoughts and opinions of the group while setting aside their personal beliefs and values. Groupthink is present in many aspects but is mostly found to occur during decision-making processes. The most damaging effect of groupthink is the pressure on group members to conform to the group and form a consensus that results in the exclusion of other ideas, perspectives, talents, skills, and thoughts. Remote collaboration requires a diversity of thought, experiences, and backgrounds.
 
 ### Perception Bias
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Perception-Bias-300x135-1.png" alt="Sikh man, indian woman, black woman.">
-<figcaption>(Icons made by Freepik, www.flaticon.com)</figcaption>
-</figure>
+![Sikh man, indian woman, black woman.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Perception-Bias-300x135-1.png)
 
- Perception bias is when people form generalized stereotypes and assumptions about particular groups of people. This type of bias renders it virtually impossible for people with this bias to remain objective when considering an individual in any aspect of the learning environment. Perception bias is present when a person focuses on irrelevant factors about someone they are perceiving (such as their gender, ethnicity, race, national origin, sexual orientation, etc.) and the stereotypes associated with each, rather than the qualifications and personality of the individual.
+*(Icons made by Freepik, www.flaticon.com)*
+
+Perception bias is when people form generalized stereotypes and assumptions about particular groups of people. This type of bias renders it virtually impossible for people with this bias to remain objective when considering an individual in any aspect of the learning environment. Perception bias is present when a person focuses on irrelevant factors about someone they are perceiving (such as their gender, ethnicity, race, national origin, sexual orientation, etc.) and the stereotypes associated with each, rather than the qualifications and personality of the individual.
 
 ### Conscious Bias
 
@@ -64,7 +60,7 @@ It is important to note that biases, conscious or unconscious, are not limited t
 
 The Devex (2018) video, *4 steps for busting unconscious bias* \[4:26\], details a step-by-step guide for recognizing and responding to our own unconscious biases.
 
-> **4 steps for busting unconscious bias:** [4 steps for busting unconscious bias](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-3)
+> **Embedded content:** [4 steps for busting unconscious bias](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-3) (on the original Pressbooks page)
 
 The Center for Teaching and Learning (n.d.) at DePaul University provides some strategies for combating bias in teaching:
 

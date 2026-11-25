@@ -1,0 +1,8 @@
+Grav Docsify Bridge – notes
+
+Guides moved: 1
+- Universal Design for Learning (UDL) for Inclusion, Diversity, Equity, and Accessibility (IDEA) 2nd Edition (8 sections, 43 pages)
+
+Nothing to check.
+
+Tip: to use your Grav site's favicon, copy it from user/themes/mytheme/images/favicon/ into the Docsify site and add &loadFavicon= with its file name (such as favicon.png) to the Docsify-This link

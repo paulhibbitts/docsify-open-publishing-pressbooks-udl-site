@@ -3,7 +3,6 @@
   - [Land Acknowledgement ](section-1/land-acknowledgement.md)
   - [Accessibility Statement](section-1/accessibility-statement.md)
   - [Preface](section-1/preface.md)
-  - [Glossary](section-1/glossary.md)
   - [Contributors](section-1/contributors.md)
 - Module 1: Introduction and Overview of UDL
   - [1.1: Origins of UDL](section-2/11-origins-of-udl.md)
@@ -41,3 +40,4 @@
   - [6.4: UDL for Indigenous Pedagogies](section-7/64-udl-for-indigenous-pedagogies.md)
   - [6.5: Goal Setting](section-7/65-goal-setting.md)
   - [6.6: Assessment and Resources](section-7/66-assessment-and-resources.md)
+- [Glossary](section-8/README.md)

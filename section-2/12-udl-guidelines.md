@@ -53,14 +53,13 @@ Each network contains considerations (three for each network making nine in tota
 
 The guidelines are not prescriptive, but instead offer informed suggestions that can be used in any program, course or learning environment to support masterful learning and accurate assessment. Some post-secondary institutions use a streamlined version of the UDL framework to provide more flexibility for application (as shown below).
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/UDL-Guidelines.png" alt="See text version of the content (Word document link below).">
-<figcaption>(Mohawk College, 2025) <a style="text-align: center;font-size: 1em" href="https://www.mohawkcollege.ca/sites/default/files/CTL/images/UDL%20Guidelines%20Description-3.0.docx" target="_blank" rel="noopener">UDL Graphic Organizer Plain Text Description (Doc) ↗</a></figcaption>
-</figure>
+![See text version of the content (Word document link below).](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/UDL-Guidelines.png)
 
- The video, *What is UDL?* \[3:34\] by Mohawk College (2025), explains how all ofthe UDL components work together.
+*(Mohawk College, 2025) [UDL Graphic Organizer Plain Text Description (Doc) ↗](https://www.mohawkcollege.ca/sites/default/files/CTL/images/UDL%20Guidelines%20Description-3.0.docx)*
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=37)
+The video, *What is UDL?* \[3:34\] by Mohawk College (2025), explains how all ofthe UDL components work together.
+
+[View embedded media online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=37)
 
  [Transcript of What is UDL? (PDF) ↗](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/07/M1_UDLtranscript-1.pdf)
 

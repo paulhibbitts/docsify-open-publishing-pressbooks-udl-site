@@ -29,12 +29,11 @@ You may find it helpful to see what UDL can look like based on your teaching and
 
 ## Traditional Learning Spaces
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/2814710002_36539a6b6c_o.jpg" alt="Instructor presenting to hundreds of students in a large lecture hall.">
-<figcaption>(teddy-rised, 2008)</figcaption>
-</figure>
+![Instructor presenting to hundreds of students in a large lecture hall.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/2814710002_36539a6b6c_o.jpg)
 
- There are many names for what we are calling “traditional” learning spaces; you may refer to these learning environments as face-to-face, in-person, or in-class. Whatever label works for you, the examples below outline what UDL can look like when your learners are physically present in a defined classroom space and content is being delivered synchronously:
+*(teddy-rised, 2008)*
+
+There are many names for what we are calling “traditional” learning spaces; you may refer to these learning environments as face-to-face, in-person, or in-class. Whatever label works for you, the examples below outline what UDL can look like when your learners are physically present in a defined classroom space and content is being delivered synchronously:
 
 - Provide opportunities for learners to move in the classroom space to form groups or pairs to complete learning activities
 - Make time throughout the class/session to stop and have learners reflect
@@ -54,12 +53,11 @@ For the purposes of this module, “online” learning environments are defined 
 
 ## Blended or Technology-Mediated Learning
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Hybrid-Learning-scaled-1.jpg" alt="A person waves at a webcam attached to a video monitor, interacting with a classroom of students.">
-<figcaption>(Mörtsell, 2017)</figcaption>
-</figure>
+![A person waves at a webcam attached to a video monitor, interacting with a classroom of students.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/Hybrid-Learning-scaled-1.jpg)
 
- Blended or technology-mediated learning spaces are, for the purposes of this module, defined as a combination of traditional and online learning environments where content may be delivered synchronously and/or asynchronously. The examples below outline how UDL can be implemented in these teaching and learning environments:
+*(Mörtsell, 2017)*
+
+Blended or technology-mediated learning spaces are, for the purposes of this module, defined as a combination of traditional and online learning environments where content may be delivered synchronously and/or asynchronously. The examples below outline how UDL can be implemented in these teaching and learning environments:
 
 - Offer multimedia resources online that solidify concepts taught in the traditional class environment
 - Include clear navigation instructions so learners can manage both learning spaces

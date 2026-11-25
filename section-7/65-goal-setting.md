@@ -4,12 +4,11 @@ Goal setting is an essential step in the UDL implementation process. While “go
 
 Furthermore, institutional EDI, accessibility or Indigenization goals may not fully meet your learning and teaching environments needs. Careful review of your teaching and a proactive evaluation of your learners’ needs, in combination with institutional strategic plans and goals, will provide an informed start to your UDL goal setting.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/01/SMART-ENGLISH.gif" alt="">
-<figcaption>(© UDL for IDEA VLS Team)</figcaption>
-</figure>
+![(© UDL for IDEA VLS Team)](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/01/SMART-ENGLISH.gif)
 
- SMART goals are ideal when you wish to create comprehensive objectives that can be actualized. For those new to SMART goals, you will find a description of the acronym below:
+*(© UDL for IDEA VLS Team)*
+
+SMART goals are ideal when you wish to create comprehensive objectives that can be actualized. For those new to SMART goals, you will find a description of the acronym below:
 
 - **S**pecific: What, exactly, do you wish to accomplish?
 - **M**easurable: How will you know when you have reached your goal?

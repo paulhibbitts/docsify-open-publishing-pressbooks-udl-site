@@ -26,13 +26,13 @@ When thinking about your course or curriculum design, or re-design, consider:
 
 The following video, *UDL, Technology and Materials* \[1:18\] by UDL on Campus (2015), quickly touches on the use of technology when implementing UDL in the higher education learning environment.
 
-> **UDL, Technology and Materials:** [UDL, Technology and Materials](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51#oembed-1)
+> **Embedded content:** [UDL, Technology and Materials](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51#oembed-1) (on the original Pressbooks page)
 
 ## What Educators Say
 
 In *UDL at Mohawk College* \[2:43\], Tara Dinyer, Professor in the Health, Wellness and Fitness Program, describes her UDL implementation process and provides examples of some of the UDL elements she has embedded into her courses.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51)
+[View embedded media online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=51)
 
 > [!TIP]
 > **Activity 2: Test Your Knowledge**

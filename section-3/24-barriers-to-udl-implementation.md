@@ -2,12 +2,11 @@
 
 By this point, you have learned about the UDL Guidelines, principles, and implementation examples for each phase in the curriculum design, development, and delivery process. While UDL implementation can create a more inclusive, equitable and accessible learning environment for all learners, it is not without challenges. It is imperative to reflect on both learner and educator needs and proactively address possible barriers to your UDL implementation when you can. Some common barriers to UDL implementation in post-secondary education include time, support, UDL knowledge.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Common-Barriers-1024x905.png" alt="Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.">
-<figcaption>Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.</figcaption>
-</figure>
+![Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/Common-Barriers-1024x905.png)
 
- **Time**
+*Graphic organizer of common UDL barriers which includes time, support and UDL knowledge.*
+
+**Time**
 
 ![Justin veenema gf03h i7c9y unsplash 1024x683](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/justin-veenema-gf03H-I7C9Y-unsplash-1024x683-1.jpg)
 
@@ -56,7 +55,7 @@ To find the resources and learning opportunities that are ideal for you, be spec
 
 In *UDL at Mohawk College* \[2:27\] Ryan Iles, a Professor in the Liberal Studies Program, discusses his start to UDL implementation and addresses some common concerns for educators starting their UDL journey.
 
-[View H5P activity online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=63)
+[View embedded media online ↗](https://ecampusontario.pressbooks.pub/universaldesign2/?p=63)
 
 > [!TIP]
 > **Activity 5: Reflecting on Barriers **

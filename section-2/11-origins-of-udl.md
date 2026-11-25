@@ -4,19 +4,17 @@
 
 In the 1980s, architect Ronald Mace introduced the term Universal Design (UD). In its original application, UD refers to “the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design” (Connell et al., 1997). For example, consider the barriers presented by entering a building that has steps up to a door with handles. Who would have difficulty accessing such a building?
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/2227547096_a1dde09393_h.jpg" alt="Inaccessible entrance to a building.">
-<figcaption>(rvaphotodude, 2006)</figcaption>
-</figure>
+![Inaccessible entrance to a building.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/11/2227547096_a1dde09393_h.jpg)
 
- Now consider a building entrance that is at ground-level entry with doors that open automatically. Who would have difficulty navigating this building?
+*(rvaphotodude, 2006)*
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/36330665434_46fff8a158_o-scaled-1.jpg" alt="Accessible entrance to a building at ground level with automatic doors.">
-<figcaption>(chrisinplymouth, 2017)</figcaption>
-</figure>
+Now consider a building entrance that is at ground-level entry with doors that open automatically. Who would have difficulty navigating this building?
 
- Just as stairs pose barriers in the built environment, there are barriers to learning in education. The concept of removing barriers and increasing access has been applied to the field of education with the development of various UD frameworks, including Universal Instructional Design (UID), Universal Design for Instruction (UDI), and Universal Design for Learning (UDL).
+![Accessible entrance to a building at ground level with automatic doors.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/36330665434_46fff8a158_o-scaled-1.jpg)
+
+*(chrisinplymouth, 2017)*
+
+Just as stairs pose barriers in the built environment, there are barriers to learning in education. The concept of removing barriers and increasing access has been applied to the field of education with the development of various UD frameworks, including Universal Instructional Design (UID), Universal Design for Instruction (UDI), and Universal Design for Learning (UDL).
 
 Despite their differences, inclusive instruction is the common goal of all three of these frameworks. The ultimate goal of inclusive instruction is to remove unnecessary barriers and improve access for all learners.
 
@@ -24,10 +22,9 @@ Despite their differences, inclusive instruction is the common goal of all three
 
 In the 1900s, David Rose, Anne Meyer, and their colleagues at the Center for Applied Special Technology (CAST) developed the [UDL framework ↗](https://www.cast.org/impact/universal-design-for-learning-udl), which is the only UD framework that is based on research on cognitive neuroscience (Meyer, et al. 2002; Rose, Rouhani, et al., 2013; Rose, 2016). CAST is an organization whose mission is to eliminate barriers to learning and support the development of expert learners while addressing aspects of inclusion, diversity, equity and accessibility.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/UDL-Venn-Diagram.png" alt="Venn diagram showing Universal Design for Learning in the centre and four overlapping outer circles labelled diversity, equity, Accessibility (AODA), and inclusion.">
-<figcaption>(UDL for IDEA VLS Team)</figcaption>
-</figure>
+![Venn diagram showing Universal Design for Learning in the centre and four overlapping outer circles labelled diversity, equity, Accessibility (AODA), and inclusion.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2025/04/UDL-Venn-Diagram.png)
+
+*(UDL for IDEA VLS Team)*
 
 A key aspect of UDL is understanding that all learners are variable and that the “average student” simply does not exist. We cannot plan for every learner variable, but we can design, develop, and deliver our curriculum knowing our learners will have diverse needs and providing them options to ensure everyone’s needs are met.
 
@@ -35,7 +32,7 @@ Todd Rose explains that when organizations plan for the “average” they are n
 
 The TEDx (2013) video, *The Myth of the Average: Todd Rose at TEDx Sonoma County* \[18:26\],explains why we should rid ourselves of the idea of the “average”.
 
-> **The Myth of Average: Todd Rose at TEDxSonomaCounty:** [The Myth of Average: Todd Rose at TEDxSonomaCounty](https://ecampusontario.pressbooks.pub/universaldesign2/?p=30#oembed-1)
+> **Embedded content:** [The Myth of Average: Todd Rose at TEDxSonomaCounty](https://ecampusontario.pressbooks.pub/universaldesign2/?p=30#oembed-1) (on the original Pressbooks page)
 
 Once we accept that there is no average, we can start to find teaching and learning strategies to support all of our students. The UDL guidelines provide the strategies we need and offer a path for curriculum design, development and delivery that embeds equity, diversity, access and inclusion.
 

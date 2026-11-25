@@ -24,12 +24,11 @@ The cycle of life through many dimensions can be captured and symbolized through
 
 A more recent rendition involves colouring of the quadrants and the colours may vary based on the community it represents. You might be familiar with one common presentation of the Medicine Wheel where the four quadrants are shown with white in the north quadrant, yellow in the east quadrant, red in the south quadrant, and black in the west quadrant. The centre is the intersection point that represents the individual balanced between these quadrants.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Medicine-Wheel-300x300-1.png" alt="A medicine wheel. A circle divided into four coloured quadrants, with white to the north, yellow to the east, red to the south, and black to the west.">
-<figcaption>(Littlejohn657, 2021)</figcaption>
-</figure>
+![A medicine wheel. A circle divided into four coloured quadrants, with white to the north, yellow to the east, red to the south, and black to the west.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/02/Medicine-Wheel-300x300-1.png)
 
- Talking or sharing circles are often used in Indigenous teaching and learning environments. Circles have traditionally been used to demonstrate that everyone is connected and that every person in the circle has an equal voice. They also ensure that everyone can see and hear the speaker, and turn-taking is important. It is a considerably different model to the traditional classroom with the instructor at the front with rows upon rows of students facing forward. The power differential is very different between these two learning environments as well, with the circle approach having parallels to Universal Design principles (can you think of which ones?) You may want to consider how you can include the circle approach in your teaching and what impact that might have on all your learners.
+*(Littlejohn657, 2021)*
+
+Talking or sharing circles are often used in Indigenous teaching and learning environments. Circles have traditionally been used to demonstrate that everyone is connected and that every person in the circle has an equal voice. They also ensure that everyone can see and hear the speaker, and turn-taking is important. It is a considerably different model to the traditional classroom with the instructor at the front with rows upon rows of students facing forward. The power differential is very different between these two learning environments as well, with the circle approach having parallels to Universal Design principles (can you think of which ones?) You may want to consider how you can include the circle approach in your teaching and what impact that might have on all your learners.
 
 There are many, many teachings using the medicine wheel, and some are described in the [Four Directions Teachings](http://www.fourdirectionsteachings.com/interactive.html) interactive video website if you wish to learn more about the use of the Medicine Wheel in Indigenous pedagogy. The site features versions of the medicine wheel teachings from five Nations perspectives including: Mikmaq, Mohawk, Ojibwe, Cree and Blackfoot. We recommend you take some time to familiarise yourself with these resources and learnings and consider the relationship between your own teaching and the teachings shared in this.
 

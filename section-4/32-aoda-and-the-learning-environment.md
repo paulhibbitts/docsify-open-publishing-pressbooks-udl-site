@@ -6,16 +6,15 @@ Educational institutions operating in Ontario have a legal duty to take steps to
 
 The video*, Discover: An Educator’s Introduction to the AODA* \[3:27\] by OntarioUniversities (2013), provides an overview of the AODA and how it applies to educators. It also shows some examples on how instruction can be made more accessible to all students.
 
-> **Discover: An Educator's Introduction to the AODA:** [Discover: An Educator's Introduction to the AODA](https://ecampusontario.pressbooks.pub/universaldesign2/?p=78#oembed-1)
+> **Embedded content:** [Discover: An Educator's Introduction to the AODA](https://ecampusontario.pressbooks.pub/universaldesign2/?p=78#oembed-1) (on the original Pressbooks page)
 
 The AODA established the Integrated Accessibility Standard Regulations (IASR), a grouping of legal requirements that institutions must follow to help identify, remove, and prevent barriers faced by persons with disabilities. These requirements are divided in two categories: General Requirements and Accessibility Standards.
 
-<figure>
-<img src="https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/AODA-Chart-Update.png" alt="AODA Integrated Accessibility Standard Regulations areas of coverage.">
-<figcaption>(Accessibility Services Canada, n.d.)</figcaption>
-</figure>
+![AODA Integrated Accessibility Standard Regulations areas of coverage.](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2021/12/AODA-Chart-Update.png)
 
- **General Requirements**
+*(Accessibility Services Canada, n.d.)*
+
+**General Requirements**
 
 The General Requirements include training, procurement, planning, accountability (reporting), and policies and processes.
 
