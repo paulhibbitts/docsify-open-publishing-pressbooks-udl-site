@@ -1,6 +1,6 @@
 Pressbooks Conversion Notes
 ===========================
-Generated: 2026-11-25
+Generated: 2026-11-26
 
 Book Metadata
 -------------
@@ -33,15 +33,11 @@ Conversion Settings
   H5P:     embedded via [h5p] shortcode (see H5P Embeds section below)
   YouTube: embedded via [youtube] shortcode
 
-Warnings
---------
-  - the Pressbooks export has no intro pages for its parts, and they couldn't be fetched from https://ecampusontario.pressbooks.pub/universaldesign2/ (HTTP/1.1 403 Forbidden) – each section opens its first page instead
-
 Glossary and Captions
 ---------------------
   Glossary: 13 terms, in the Glossary section (section 8), listed in alphabetical order
   Glossary terms in the text: 0 show their definition when hovered over or tapped
-  Figure captions: 25, 0 already numbered in the book (such as "Figure 3.2")
+  Figure captions: 28, 0 already numbered in the book (such as "Figure 3.2")
   To number figures and tables by section (Figure 3.2), turn on Number Figures and Tables
   on the book's home page
 
@@ -58,6 +54,13 @@ Tables Not in the Export
   Pressbooks export leaves out, keeping only a shortcode such as [table id=5].
   Copy each table from the book on Pressbooks into the page by hand:
   - 3.3: OHRC and Accommodations (1 table)
+
+Part Intros Not in the Export
+-----------------------------
+  The Pressbooks export left out the intro page of 6 part(s), so their
+  text was taken from the book on Pressbooks (https://ecampusontario.pressbooks.pub/universaldesign2/).
+  Links to the book's own pages point to the converted pages; review each
+  section's own page, as other content may differ from the export.
 
 Media Support
 -------------
@@ -91,6 +94,10 @@ About This Guide
 1.4: Assessment and Resources
   Embed:  https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&id=2
   Source: https://ecampusontario.pressbooks.pub/universaldesign2/?p=45#h5p-2
+
+Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments
+  Embed:  https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&id=4
+  Source: https://ecampusontario.pressbooks.pub/universaldesign2/?p=49#h5p-4
 
 2.1: Applying UDL in the Design Phase
   Embed:  https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&id=5

@@ -40,37 +40,37 @@ Accessibility, about, preface, and acknowledgements.
 
 <div class="card">
 
-## [Module 1: Introduction and Overview of UDL](section-2/11-origins-of-udl.md) <!-- {docsify-ignore} -->
+## [Module 1: Introduction and Overview of UDL](section-2/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-## [Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments](section-3/21-applying-udl-in-the-design-phase.md) <!-- {docsify-ignore} -->
+## [Module 2: UDL in Post-Secondary & Technology Enabled Learning Environments](section-3/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-## [Module 3: Legislative Requirements Under the AODA and OHRC](section-4/31-principles-of-accessible-legislation.md) <!-- {docsify-ignore} -->
+## [Module 3: Legislative Requirements Under the AODA and OHRC](section-4/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-## [Module 4: Equity, Diversity, and Inclusion (EDI)](section-5/41-what-is-edi.md) <!-- {docsify-ignore} -->
+## [Module 4: Equity, Diversity, and Inclusion (EDI)](section-5/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-## [Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario](section-6/51-the-importance-of-place-and-space.md) <!-- {docsify-ignore} -->
+## [Module 5: Indigenous Pedagogies and the Benefits for All Learners in Ontario](section-6/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-## [Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments](section-7/61-review-of-universal-design-for-learning.md) <!-- {docsify-ignore} -->
+## [Module 6: UDL for AODA, EDI and Indigenous Pedagogies in Post-Secondary Learning Environments](section-7/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
