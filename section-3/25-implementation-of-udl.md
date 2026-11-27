@@ -4,7 +4,7 @@ Given what you have learned about UDL thus far, it is likely that you have alrea
 
 The following video, *Getting Started* \[1:14\] by UDL On Campus (2015), offers some quick tips on how to start thinking about and implementing UDL into your curriculum, course and/or program.
 
-> **Embedded content:** [Getting Started](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/_HHvRzemuHA" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 There are a number of strategic approaches to support UDL implementation in your context. Review the ideas below and determine which approach, or combination of approaches, you feel would suit your context best.
 
@@ -30,7 +30,7 @@ UDL can be implemented in diagnostic, formative, or summative assessment methods
 
 The video, *UDL and Assessment* \[3:09\]by UDL On Campus(2014),offers a short, but detailed look at how UDL Guidelines can be included in assessments:
 
-> **Embedded content:** [UDL and Assessment | An Introduction to UDL and Assessment](https://ecampusontario.pressbooks.pub/universaldesign2/?p=65#oembed-2) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/AzRsqPqGlPw" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Because UDL is not prescriptive regarding the types of assessments used, post-secondary educators have the flexibility needed to create assessments that are construct relevant and provide options to learners to demonstrate their mastery of the content. Below you will find some general tips to support applying the UDL Guidelines to assessments in your context:
 
@@ -47,9 +47,7 @@ Loui Lord Nelson developed a process for UDL implementation that both starts and
 
 To view the steps of this process, navigate through the dialog cards below using the blue turn button to flip the card and the blue arrow button to advance to the next card.
 
-
 <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=17" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
 
  (Nelson, 2014, p. 136)
 

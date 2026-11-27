@@ -43,7 +43,7 @@ While the goal of each of the frameworks mentioned is inclusion, we have decided
 
 The CAST (2018) video, *UDL to Change the World \[1:03\]*, explains more about why UDL was chosen for this project and how this framework is important for AODA and EDI goals.
 
-> **Embedded content:** [UDL to Change the World](https://ecampusontario.pressbooks.pub/universaldesign2/?p=21#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/shgJYEmD1_A" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 ### Focus on AODA
 

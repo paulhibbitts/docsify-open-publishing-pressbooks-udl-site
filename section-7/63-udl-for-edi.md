@@ -6,7 +6,7 @@ When policies, processes, and instruction are developed without examining these 
 
 The UDL on Campus (2015) video, *Innovations at the Margins* \[1:07\], outlines how UDL has the capacity to support all post-secondary students to become masterful learners who are fully included in all aspects of post-secondary education.
 
-> **Embedded content:** [Innovation at the Margins](https://ecampusontario.pressbooks.pub/universaldesign2/?p=141#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4yUYQgcWGGA" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Here are some examples of how UDL can support EDI in our post-secondary context:
 

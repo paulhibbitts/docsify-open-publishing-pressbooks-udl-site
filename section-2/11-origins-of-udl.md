@@ -35,7 +35,7 @@ Todd Rose explains that when organizations plan for the “average” they are n
 
 The TEDx (2013) video, *The Myth of the Average: Todd Rose at TEDx Sonoma County* \[18:26\],explains why we should rid ourselves of the idea of the “average”.
 
-> **Embedded content:** [The Myth of Average: Todd Rose at TEDxSonomaCounty](https://ecampusontario.pressbooks.pub/universaldesign2/?p=30#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4eBmyttcfU4" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Once we accept that there is no average, we can start to find teaching and learning strategies to support all of our students. The UDL guidelines provide the strategies we need and offer a path for curriculum design, development and delivery that embeds equity, diversity, access and inclusion.
 

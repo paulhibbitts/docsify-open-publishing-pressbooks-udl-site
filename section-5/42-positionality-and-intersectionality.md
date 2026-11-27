@@ -12,7 +12,7 @@ Moreover, positionality is experienced differently in different contexts, and ca
 
 In this video, *What is Intersectionality?* \[1:54\] by the National Association of Independent Schools (2018), Professor Kimberlé Crenshaw talks about the study of how overlapping or intersecting social identities relate to systems and structures of discrimination.
 
-> **Embedded content:** [Kimberlé Crenshaw What is Intersectionality](https://ecampusontario.pressbooks.pub/universaldesign2/?p=103#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/qTweF3o5ZyU" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Related to positionality, intersectionality acknowledges the complex relationship between social identities, and systems of power and oppression. Given the fluid, relational, and social construction of identities, intersectional paradigms recognize that every person has multiple and diverse identities (e.g., race, gender, sexual orientation, socio-economic status, dis/ability, beliefs, and worldview) that combine in unique ways to shape our perspectives, and experiences with oppression and privilege (Ontario Human Rights Commission, 2001). In this context, intersectionality recognizes that oppression does not exist within a vacuum, but rather intersecting oppressions work together in producing injustice (Collins, 2001).
 

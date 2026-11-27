@@ -4,7 +4,7 @@ An unconscious bias (also known as implicit bias) is an implicit attitude, stere
 
 The following video, *Understanding unconscious bias* \[2:59\] by Royal Society (2015), gives an overview of unconscious bias.
 
-> **Embedded content:** [Understanding unconscious bias | The Royal Society](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-1) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/dVp9Z5k0dEE" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Unconscious biases are important to recognize in instances when quality, relevance and competence are being evaluated (University of California San Francisco, n.d.).
 
@@ -23,7 +23,7 @@ A vast body of research on unconscious bias shows that there are approximately 1
 
 The PwC (2017) video, *Blind spots: Broaden perspectives* \[3:24\], discusses similarity bias and how to overcome it.
 
-> **Embedded content:** [Blind spots: Broaden perspectives](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-2) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/HbBTM8bJt8Q" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 ### Confirmation Bias
 
@@ -64,7 +64,7 @@ It is important to note that biases, conscious or unconscious, are not limited t
 
 The Devex (2018) video, *4 steps for busting unconscious bias* \[4:26\], details a step-by-step guide for recognizing and responding to our own unconscious biases.
 
-> **Embedded content:** [4 steps for busting unconscious bias](https://ecampusontario.pressbooks.pub/universaldesign2/?p=109#oembed-3) (on the original Pressbooks page)
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/K-n7el87Dmo" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 The Center for Teaching and Learning (n.d.) at DePaul University provides some strategies for combating bias in teaching:
 
