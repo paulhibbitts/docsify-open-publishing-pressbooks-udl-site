@@ -8,7 +8,7 @@ We’ve learned basic principles of Universal Design for Learning (UDL), but how
 
 The following video, *UDL in Higher Education* \[2:09\] by UDL on Campus (2015), gives an overview of the application of UDL in this context.
 
-\[youtube\]https://www.youtube.com/watch?v=O_MCvjkd8Jc\[/youtube\]
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/O_MCvjkd8Jc" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
 
 This UDL in Post-Secondary, Technology Enabled Learning Environments module is to demonstrate the use of Universal Design for Learning (UDL) in Ontario’s higher education context, including applicable benefits and barriers, and to outline the use of technologies in implementation.
 
