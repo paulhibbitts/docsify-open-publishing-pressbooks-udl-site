@@ -33,9 +33,7 @@ Support for UDL implementers in higher education in Ontario can feel scarce. The
 
 However, UDL support does exist, just not always in the places educators might expect. Within post-secondary institutions, there are a wealth of talented and dedicated educators in a variety of fields and departments. While you may not have a specific UDL support role, it is likely that there are support persons for UDL implementation throughout the institution. Select each support listed below to learn more about each one.
 
-
-<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=8" title="2.4: Support Examples Accordion" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
  Creating a list of UDL support persons or groups, for your educational context, can help build a solid support network for your continued UDL implementation.
 
@@ -77,7 +75,7 @@ In *UDL at Mohawk College* \[2:27\] Ryan Iles, a Professor in the Liberal Studie
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work! This activity is untimed, you may have as many attempts as you would like and your scores and/or attempts are not tracked.
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Note-Taking / Documentation Tool" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

@@ -137,7 +137,7 @@ Once receiving appropriate accommodation, a student must be able to meet bona fi
 
 This OHRC (2013) video, *Working Together: Part 3. Understanding the Duty to Accommodate* \[5:31\], briefly explains your rights and responsibilities under the Code and the AODA.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/O88pcfAjN20" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/O88pcfAjN20" title="Working Together: Part 3. Understanding the Duty to Accommodate" frameborder="0" allowfullscreen="true"></iframe></div>
 
 > [!TIP]
 > **Activity 3: Reflect on Case Study **
@@ -157,7 +157,7 @@ This OHRC (2013) video, *Working Together: Part 3. Understanding the Duty to Acc
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Note-Taking / Documentation Tool" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

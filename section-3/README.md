@@ -8,7 +8,7 @@ We’ve learned basic principles of Universal Design for Learning (UDL), but how
 
 The following video, *UDL in Higher Education* \[2:09\] by UDL on Campus (2015), gives an overview of the application of UDL in this context.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/O_MCvjkd8Jc" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/O_MCvjkd8Jc" title="UDL in Higher Education" frameborder="0" allowfullscreen="true"></iframe></div>
 
 This UDL in Post-Secondary, Technology Enabled Learning Environments module is to demonstrate the use of Universal Design for Learning (UDL) in Ontario’s higher education context, including applicable benefits and barriers, and to outline the use of technologies in implementation.
 
@@ -77,7 +77,7 @@ Approximately 120 minutes
 > If you have difficulty completing the graphic organizer you may wish to look back at the [UDL Guidelines in Module 1](/section-2/12-udl-guidelines.md).
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=4" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=4" title="2.0: Drag and Drop Activity (UDL 3.0)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

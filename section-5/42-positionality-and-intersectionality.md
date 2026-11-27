@@ -12,7 +12,7 @@ Moreover, positionality is experienced differently in different contexts, and ca
 
 In this video, *What is Intersectionality?* \[1:54\] by the National Association of Independent Schools (2018), Professor Kimberlé Crenshaw talks about the study of how overlapping or intersecting social identities relate to systems and structures of discrimination.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/qTweF3o5ZyU" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/qTweF3o5ZyU" title="Kimberlé Crenshaw What is Intersectionality" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Related to positionality, intersectionality acknowledges the complex relationship between social identities, and systems of power and oppression. Given the fluid, relational, and social construction of identities, intersectional paradigms recognize that every person has multiple and diverse identities (e.g., race, gender, sexual orientation, socio-economic status, dis/ability, beliefs, and worldview) that combine in unique ways to shape our perspectives, and experiences with oppression and privilege (Ontario Human Rights Commission, 2001). In this context, intersectionality recognizes that oppression does not exist within a vacuum, but rather intersecting oppressions work together in producing injustice (Collins, 2001).
 
@@ -67,7 +67,7 @@ Sylvia Duckworth’s “wheel of power/privilege” is another visual representa
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Note-Taking / Documentation Tool" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

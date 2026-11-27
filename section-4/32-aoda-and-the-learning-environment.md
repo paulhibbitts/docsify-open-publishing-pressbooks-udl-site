@@ -6,7 +6,7 @@ Educational institutions operating in Ontario have a legal duty to take steps to
 
 The video*, Discover: An Educator’s Introduction to the AODA* \[3:27\] by OntarioUniversities (2013), provides an overview of the AODA and how it applies to educators. It also shows some examples on how instruction can be made more accessible to all students.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4AxaWGbf4mk" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4AxaWGbf4mk" title="Discover: An Educator&#039;s Introduction to the AODA" frameborder="0" allowfullscreen="true"></iframe></div>
 
 The AODA established the Integrated Accessibility Standard Regulations (IASR), a grouping of legal requirements that institutions must follow to help identify, remove, and prevent barriers faced by persons with disabilities. These requirements are divided in two categories: General Requirements and Accessibility Standards.
 
@@ -135,7 +135,7 @@ When the requested materials or resources are unconvertible, the library needs t
 > 4.
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=13" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=13" title="3.2: Activity 2 Question 4 (Check all that apply)" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

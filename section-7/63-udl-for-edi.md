@@ -6,7 +6,7 @@ When policies, processes, and instruction are developed without examining these 
 
 The UDL on Campus (2015) video, *Innovations at the Margins* \[1:07\], outlines how UDL has the capacity to support all post-secondary students to become masterful learners who are fully included in all aspects of post-secondary education.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4yUYQgcWGGA" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/4yUYQgcWGGA" title="Innovation at the Margins" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Here are some examples of how UDL can support EDI in our post-secondary context:
 
@@ -60,7 +60,7 @@ For other examples, read this [Key Guiding Questions (Doc)](https://ecampusontar
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Note-Taking / Documentation Tool" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 

@@ -4,7 +4,7 @@ An unconscious bias (also known as implicit bias) is an implicit attitude, stere
 
 The following video, *Understanding unconscious bias* \[2:59\] by Royal Society (2015), gives an overview of unconscious bias.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/dVp9Z5k0dEE" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/dVp9Z5k0dEE" title="Understanding unconscious bias | The Royal Society" frameborder="0" allowfullscreen="true"></iframe></div>
 
 Unconscious biases are important to recognize in instances when quality, relevance and competence are being evaluated (University of California San Francisco, n.d.).
 
@@ -23,7 +23,7 @@ A vast body of research on unconscious bias shows that there are approximately 1
 
 The PwC (2017) video, *Blind spots: Broaden perspectives* \[3:24\], discusses similarity bias and how to overcome it.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/HbBTM8bJt8Q" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/HbBTM8bJt8Q" title="Blind spots: Broaden perspectives" frameborder="0" allowfullscreen="true"></iframe></div>
 
 ### Confirmation Bias
 
@@ -64,7 +64,7 @@ It is important to note that biases, conscious or unconscious, are not limited t
 
 The Devex (2018) video, *4 steps for busting unconscious bias* \[4:26\], details a step-by-step guide for recognizing and responding to our own unconscious biases.
 
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/K-n7el87Dmo" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/K-n7el87Dmo" title="4 steps for busting unconscious bias" frameborder="0" allowfullscreen="true"></iframe></div>
 
 The Center for Teaching and Learning (n.d.) at DePaul University provides some strategies for combating bias in teaching:
 
@@ -96,7 +96,7 @@ You may read the detailed strategies from [Implicit Bias ↗](https://resources.
 > Alternatively, a text-based note-taking space is provided below. **Any notes you take here remain entirely confidential and visible only to you.** Use this space as you wish to keep track of your thoughts, learning, and activity responses. Download a text copy of your notes before moving on to the next page of the module to ensure you don’t lose any of your work!
 >
 >
-> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Interactive content" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+> <iframe src="https://ecampusontario.pressbooks.pub/universaldesign2/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=2" title="Note-Taking / Documentation Tool" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 >
 >
 
