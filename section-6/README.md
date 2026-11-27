@@ -29,8 +29,7 @@ Please note also that unlike other videos in this resource, the videos in this m
 
 No conversation about inclusivity and learning in this land we call Canada would be complete unless Indigenous perspectives are also involved, so we are inviting you on a very small journey into that world. This module will model some traditional Indigenous pedagogies using a combination of text, images, and storytelling videos. We encourage you to draw upon your knowledge of UDL, AODA and EDI, and compare and contrast those principles with the Indigenous pedagogies that follow.
 
-While we will not be covering “decolonization” and “indigenization” in this module, they are important topics for post-secondary education in Ontario and we encourage you to learn more about them using [Pulling Together: A Guide for Curriculum Developers](https://opentextbc.ca/indigenizationcurriculumdevelopers/) ![Opens in a new tab](https://ecampusontario.pressbooks.pub/app/uploads/sites/6092/2022/01/icons8-interface-32-e1644590373117.png)
-, an open educational resource, and/or review the resources provided at the end of this module.
+While we will not be covering “decolonization” and “indigenization” in this module, they are important topics for post-secondary education in Ontario and we encourage you to learn more about them using [Pulling Together: A Guide for Curriculum Developers](https://opentextbc.ca/indigenizationcurriculumdevelopers/), an open educational resource, and/or review the resources provided at the end of this module.
 
 ## Important Notes
 
